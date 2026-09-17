@@ -1,7 +1,7 @@
 # StartupPerks Open Dataset
 
 Open, cited data on **startup perks**: the credits, free plans, discounts, and rewards that
-1,076 companies offer to startups, with each program's provider, category, benefit value,
+1,048 companies offer to startups, with each program's provider, category, benefit value,
 eligibility, and the primary source it was taken from. One machine-readable dataset, released
 under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**.
 
@@ -17,32 +17,32 @@ cadence; this repository is a periodic snapshot of it, regenerated from the live
 
 ## What is in here
 
-`data/startupperks-dataset.*` holds **1,076 startup-perk programs from 1,063 distinct providers**,
+`data/startupperks-dataset.*` holds **1,058 startup-perk programs from 1,048 distinct providers**,
 across 9 categories. Every row carries the provider, the benefit type and its value (both as the
 provider states it and, where a specific dollar figure is published, a normalized USD amount),
 who qualifies, the geographies it applies to, a confidence flag, and the **primary-source URL** the
 program was read from.
 
-- **Benefit mix:** 543 free or startup plans, 280 credit programs, 182 discounts, 44 cash /
-  rewards programs, and 27 structured programs.
-- **Dollar values:** 193 of the 1,076 programs publish a specific benefit figure. Among those the
-  **median is $10,000**, with the largest verified cloud programs reaching $250,000 to $350,000
-  (Google for Startups, Cloudflare, Snowflake). These figures are *advertised maximums*, not
-  additive: a startup qualifies for a subset, and the top-of-band amount is rarely the amount most
-  companies receive.
+- **Benefit mix:** 543 free or startup plans, 280 credit programs, 182 discounts, 30 cash /
+  rewards programs, and 23 structured programs.
+- **Dollar values:** 190 of the 1,058 programs publish a specific benefit figure. Among those the
+  **median is $10,000**, with the largest advertised programs reaching $500,000 and the biggest
+  cloud credits at $250,000 to $350,000 (Snowflake, Google for Startups, Cloudflare). These figures
+  are *advertised maximums*, not additive: a startup qualifies for a subset, and the top-of-band
+  amount is rarely the amount most companies receive.
 - **Openness:** the large majority of tracked programs are open to any startup, with no accelerator,
   incubator, or investor referral required (our analysis of the full catalog puts this at roughly 9
   in 10). The folklore that the good deals need a YC badge does not hold up against the data. See the
   write-up: [What 1,076 startup perk programs reveal](https://startupperks.co/blog/what-1076-startup-perk-programs-reveal-2026?utm_source=github&utm_medium=readme&utm_campaign=open-dataset).
-- **Confidence:** 587 programs are flagged high-confidence (read from the provider's own page);
+- **Confidence:** 583 programs are flagged high-confidence (read from the provider's own page);
   the rest are medium or low pending a primary re-read.
 
 ## Files
 
 | File | Rows | Format |
 |------|------|--------|
-| `data/startupperks-dataset.json` | 1,076 programs | JSON, with a self-describing envelope (name, licence, fields, `last_verified`) plus the records |
-| `data/startupperks-dataset.csv` | 1,076 programs | CSV (RFC 4180), one row per program |
+| `data/startupperks-dataset.json` | 1,058 programs | JSON, with a self-describing envelope (name, licence, fields, `last_verified`) plus the records |
+| `data/startupperks-dataset.csv` | 1,058 programs | CSV (RFC 4180), one row per program |
 
 See **[DATA_DICTIONARY.md](DATA_DICTIONARY.md)** for every field.
 
@@ -50,8 +50,8 @@ See **[DATA_DICTIONARY.md](DATA_DICTIONARY.md)** for every field.
 
 | Category | Programs |
 |----------|---------:|
-| Developer Tools | 195 |
 | Security, Legal & HR | 185 |
+| Developer Tools | 177 |
 | Cloud & Infrastructure | 123 |
 | AI & ML | 118 |
 | Banking & Fintech | 108 |
