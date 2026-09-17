@@ -66,7 +66,7 @@ Explore any of these in context on the site (every figure links to the provider'
 
 - [Google for Startups Cloud Program](https://startupperks.co/programs/google-for-startups-cloud-program?utm_source=github&utm_medium=readme&utm_campaign=open-dataset) up to $350,000 in cloud credits (Cloud & Infrastructure)
 - [Cloudflare for Startups](https://startupperks.co/programs/cloudflare-for-startups?utm_source=github&utm_medium=readme&utm_campaign=open-dataset) up to $350,000 (Cloud & Infrastructure)
-- [Snowflake Startup Program](https://startupperks.co/programs/snowflake-startup-program?utm_source=github&utm_medium=readme&utm_campaign=open-dataset) up to $250,000 (Databases & Data)
+- [Snowflake Startup Program](https://startupperks.co/programs/snowflake-startup-program-startup-accelerator?utm_source=github&utm_medium=readme&utm_campaign=open-dataset) up to $250,000 (Databases & Data)
 - Cloud, AI-compute, banking, and dev-tool programs from AWS, Microsoft, NVIDIA, Brex, Ramp, Mercury, OpenAI, and 1,000+ more.
 
 Browse everything: [all programs](https://startupperks.co/programs?utm_source=github&utm_medium=readme&utm_campaign=open-dataset)
