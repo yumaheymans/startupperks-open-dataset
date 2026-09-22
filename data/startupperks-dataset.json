@@ -16,8 +16,8 @@
     "startup discounts",
     "founder benefits"
   ],
-  "generated_at": "2026-09-17T16:02:48.628Z",
-  "last_verified": "2026-09-17T12:02:04.697Z",
+  "generated_at": "2026-09-22T15:36:14.791Z",
+  "last_verified": "2026-09-22T12:00:40.644Z",
   "record_count": 1058,
   "fields": [
     {
@@ -10732,7 +10732,7 @@
       "category": "databases-data",
       "category_label": "Databases & Data",
       "benefit_type": "Program",
-      "value_text": "Cloud credits + 3h professional services + support",
+      "value_text": "A specific number of credits for the CrateDB cloud service",
       "value_usd": null,
       "eligibility": "Any startup",
       "stages": [
@@ -10744,7 +10744,7 @@
       "recurring_or_expiry": "",
       "other_requirements": "Exact credit value disclosed on application. Austrian (Crate.io) time-series/analytics database vendor.",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-17T18:00:43.583Z",
       "source_url": "https://cratedb.com/startups",
       "apply_url": "https://cratedb.com/startups",
       "url": "https://startupperks.co/programs/cratedb-cratedb-startup-pack"
@@ -10802,7 +10802,7 @@
       "recurring_or_expiry": "",
       "other_requirements": "Company under 2 years old and less than $5M in funding.",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-18T18:00:27.406Z",
       "source_url": "https://www.helicone.ai/pricing",
       "apply_url": "https://www.helicone.ai/pricing",
       "url": "https://startupperks.co/programs/helicone-helicone-startup-discount"
@@ -10841,7 +10841,7 @@
       "category": "dev-tools",
       "category_label": "Developer Tools",
       "benefit_type": "Discount",
-      "value_text": "Growth-plan discount for eligible startups (exact amount not published)",
+      "value_text": "Startup discount available",
       "value_usd": null,
       "eligibility": "Any startup",
       "stages": [
@@ -10855,7 +10855,7 @@
       "recurring_or_expiry": "",
       "other_requirements": "",
       "confidence": "medium",
-      "last_verified": null,
+      "last_verified": "2026-09-18T18:00:36.510Z",
       "source_url": "https://hookdeck.com/pricing",
       "apply_url": "https://hookdeck.com/pricing",
       "url": "https://startupperks.co/programs/hookdeck-hookdeck-startup-discount"
@@ -10894,7 +10894,7 @@
       "category": "marketing-sales",
       "category_label": "Marketing & Sales",
       "benefit_type": "Discount",
-      "value_text": "50% off for up to 1 year (100% free for some eligible startups)",
+      "value_text": "50% off for up to 1 year",
       "value_usd": null,
       "eligibility": "Any startup",
       "stages": [
@@ -10908,7 +10908,7 @@
       "recurring_or_expiry": "",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-18T18:00:45.224Z",
       "source_url": "https://www.sendspark.com/video/startups",
       "apply_url": "https://www.sendspark.com/video/startups",
       "url": "https://startupperks.co/programs/sendspark-sendspark-for-startups"
@@ -10997,7 +10997,7 @@
       "category": "security-legal-hr",
       "category_label": "Security, Legal & HR",
       "benefit_type": "Free plan",
-      "value_text": "Free plan: basic annual security awareness training with learner console and reminders",
+      "value_text": "Free for startups",
       "value_usd": null,
       "eligibility": "No funding needed",
       "stages": [
@@ -11009,7 +11009,7 @@
       "recurring_or_expiry": "Ongoing",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-19T00:00:17.226Z",
       "source_url": "https://www.wizer-training.com/pricing",
       "apply_url": "https://www.wizer-training.com/pricing",
       "url": "https://startupperks.co/programs/wizer-wizer-free-security-awareness-training"
@@ -11022,7 +11022,7 @@
       "category": "marketing-sales",
       "category_label": "Marketing & Sales",
       "benefit_type": "Discount",
-      "value_text": "80% off annual Business plan (year 1)",
+      "value_text": "80% off an annual subscription",
       "value_usd": null,
       "eligibility": "Any startup",
       "stages": [
@@ -11036,7 +11036,7 @@
       "recurring_or_expiry": "",
       "other_requirements": "Fewer than 50 employees; monthly affiliate revenue under $25,000",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-19T00:00:17.226Z",
       "source_url": "https://trackdesk.com/startup-offer",
       "apply_url": "https://trackdesk.com/startup-offer",
       "url": "https://startupperks.co/programs/trackdesk-trackdesk-startup-launch-plan"
@@ -11074,7 +11074,7 @@
       "category": "dev-tools",
       "category_label": "Developer Tools",
       "benefit_type": "Free plan",
-      "value_text": "Up to 5 free minimal, low-CVE container images per organization; startup/SMB-specific pricing for qualified companies",
+      "value_text": "Five images to test and deploy in production for free",
       "value_usd": null,
       "eligibility": "Any startup",
       "stages": [
@@ -11088,7 +11088,7 @@
       "recurring_or_expiry": "Ongoing",
       "other_requirements": "Startup/SMB pricing subject to Chainguard qualification.",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-19T00:00:28.490Z",
       "source_url": "https://www.chainguard.dev/pricing",
       "apply_url": "https://www.chainguard.dev/pricing",
       "url": "https://startupperks.co/programs/chainguard-chainguard-free-images-startupsmb-pricing"
@@ -11101,8 +11101,8 @@
       "category": "dev-tools",
       "category_label": "Developer Tools",
       "benefit_type": "Free plan",
-      "value_text": "Free plan: AI SAST, dependency, secrets, container and IaC scanning; 2 members, 10 repos, 10 PR scans + 10 auto-fixes/month",
-      "value_usd": null,
+      "value_text": "Free, no credit card",
+      "value_usd": 0,
       "eligibility": "No funding needed",
       "stages": [
         "any"
@@ -11113,7 +11113,7 @@
       "recurring_or_expiry": "Ongoing",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-19T00:00:28.490Z",
       "source_url": "https://corgea.com/pricing",
       "apply_url": "https://corgea.com/pricing",
       "url": "https://startupperks.co/programs/corgea-corgea-free-plan"
@@ -11152,7 +11152,7 @@
       "category": "security-legal-hr",
       "category_label": "Security, Legal & HR",
       "benefit_type": "Free plan",
-      "value_text": "Perpetual free plan: weekly external vulnerability scans, 1 cloud account, 2 container images, up to 3 users",
+      "value_text": "Free trial with 5 free licenses",
       "value_usd": null,
       "eligibility": "No funding needed",
       "stages": [
@@ -11164,7 +11164,7 @@
       "recurring_or_expiry": "Ongoing",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-19T00:00:28.490Z",
       "source_url": "https://www.intruder.io/pricing",
       "apply_url": "https://www.intruder.io/pricing",
       "url": "https://startupperks.co/programs/intruder-intruder-free-plan"
@@ -11202,7 +11202,7 @@
       "category": "dev-tools",
       "category_label": "Developer Tools",
       "benefit_type": "Credits",
-      "value_text": "$12,000 in credits ($1,000/month) valid for 12 months",
+      "value_text": "$12,000 of free credits",
       "value_usd": 12000,
       "eligibility": "Any startup",
       "stages": [
@@ -11216,7 +11216,7 @@
       "recurring_or_expiry": "12 months",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-19T00:00:38.854Z",
       "source_url": "https://www.svix.com/startups",
       "apply_url": "https://form.jotform.com/243116844210144",
       "url": "https://startupperks.co/programs/svix-svix-for-startups"
@@ -11229,7 +11229,7 @@
       "category": "marketing-sales",
       "category_label": "Marketing & Sales",
       "benefit_type": "Discount",
-      "value_text": "Free for first 3 months, then 70% off for months 4-12",
+      "value_text": "Free for the first three months and 70% off from the fourth month for a full year",
       "value_usd": null,
       "eligibility": "Any startup",
       "stages": [
@@ -11242,7 +11242,7 @@
       "recurring_or_expiry": "",
       "other_requirements": "Early-stage startups with total funding not exceeding $2M; new customers only",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-19T00:00:38.854Z",
       "source_url": "https://www.hippovideo.io/startups",
       "apply_url": "https://www.hippovideo.io/startups",
       "url": "https://startupperks.co/programs/hippo-video-hippo-video-for-startups"
@@ -11255,7 +11255,7 @@
       "category": "dev-tools",
       "category_label": "Developer Tools",
       "benefit_type": "Credits",
-      "value_text": "$12,000 in credit over 12 months, up to 50 developer seats",
+      "value_text": "$12,000 Credit",
       "value_usd": 12000,
       "eligibility": "Any startup",
       "stages": [
@@ -11268,7 +11268,7 @@
       "recurring_or_expiry": "12 months",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-19T00:00:38.854Z",
       "source_url": "https://mergify.com/startup-program",
       "apply_url": "https://mergify.com/startup",
       "url": "https://startupperks.co/programs/mergify-mergify-startup-program"
@@ -11306,7 +11306,7 @@
       "category": "marketing-sales",
       "category_label": "Marketing & Sales",
       "benefit_type": "Credits",
-      "value_text": "$20,000 in credits",
+      "value_text": "Up to $20k in FREE credits",
       "value_usd": 20000,
       "eligibility": "Any startup",
       "stages": [
@@ -11319,7 +11319,7 @@
       "recurring_or_expiry": "",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-19T06:00:21.897Z",
       "source_url": "https://telnyx.com/startups-program",
       "apply_url": "https://telnyx.com/startups-program",
       "url": "https://startupperks.co/programs/telnyx-telnyx-startups-program"
@@ -11357,7 +11357,7 @@
       "category": "security-legal-hr",
       "category_label": "Security, Legal & HR",
       "benefit_type": "Free plan",
-      "value_text": "Free tier: up to 2 endpoints with 1 year of storage, plus pay-as-you-go usage",
+      "value_text": "Full-featured free tier",
       "value_usd": null,
       "eligibility": "No funding needed",
       "stages": [
@@ -11369,7 +11369,7 @@
       "recurring_or_expiry": "Ongoing",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-19T06:00:21.897Z",
       "source_url": "https://limacharlie.io/pricing",
       "apply_url": "https://limacharlie.io/pricing",
       "url": "https://startupperks.co/programs/limacharlie-limacharlie-free-community-tier"
@@ -11408,8 +11408,8 @@
       "category": "security-legal-hr",
       "category_label": "Security, Legal & HR",
       "benefit_type": "Free plan",
-      "value_text": "Free plan: 5,000 pageviews/month, 100 pages per scan, cookie auto-blocking, policy generators",
-      "value_usd": null,
+      "value_text": "$0/month /domain",
+      "value_usd": 0,
       "eligibility": "No funding needed",
       "stages": [
         "any"
@@ -11420,7 +11420,7 @@
       "recurring_or_expiry": "Ongoing",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-19T06:00:34.282Z",
       "source_url": "https://www.cookieyes.com/pricing/",
       "apply_url": "https://www.cookieyes.com/pricing/",
       "url": "https://startupperks.co/programs/cookieyes-cookieyes-free-plan"
@@ -11433,8 +11433,8 @@
       "category": "security-legal-hr",
       "category_label": "Security, Legal & HR",
       "benefit_type": "Free plan",
-      "value_text": "Free-forever privacy plan: 1 domain, 5,000 monthly visitors, cookie banner, up to 3 DSARs/month",
-      "value_usd": null,
+      "value_text": "Free forever; $0/month",
+      "value_usd": 0,
       "eligibility": "No funding needed",
       "stages": [
         "any"
@@ -11445,7 +11445,7 @@
       "recurring_or_expiry": "Free forever",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-19T06:00:34.282Z",
       "source_url": "https://www.enzuzo.com/pricing",
       "apply_url": "https://www.enzuzo.com/pricing",
       "url": "https://startupperks.co/programs/enzuzo-enzuzo-free-forever-plan"
@@ -11510,7 +11510,7 @@
       "category": "marketing-sales",
       "category_label": "Marketing & Sales",
       "benefit_type": "Discount",
-      "value_text": "50% off; billed for 6 months but get a 12-month subscription",
+      "value_text": "50% off + Wow site",
       "value_usd": null,
       "eligibility": "VC / accelerator-backed",
       "stages": [
@@ -11523,7 +11523,7 @@
       "recurring_or_expiry": "",
       "other_requirements": "New customers only; fewer than 50 employees; raised under $5M; associated with an accelerator, incubator, VC or startup community",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-19T06:00:44.621Z",
       "source_url": "https://document360.com/partners/startup-program/",
       "apply_url": "https://document360.com/partners/startup-program/",
       "url": "https://startupperks.co/programs/document360-document360-startup-program"
@@ -11561,8 +11561,8 @@
       "category": "dev-tools",
       "category_label": "Developer Tools",
       "benefit_type": "Free plan",
-      "value_text": "Free cloud tier: up to 5 users, 3 apps, 3 environments; also free open-source self-hosting",
-      "value_usd": null,
+      "value_text": "$0",
+      "value_usd": 0,
       "eligibility": "No funding needed",
       "stages": [
         "any"
@@ -11573,7 +11573,7 @@
       "recurring_or_expiry": "Ongoing",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-19T06:00:44.621Z",
       "source_url": "https://phase.dev/pricing",
       "apply_url": "https://phase.dev/pricing",
       "url": "https://startupperks.co/programs/phase-phase-free-cloud-tier-open-source"
@@ -11586,7 +11586,7 @@
       "category": "marketing-sales",
       "category_label": "Marketing & Sales",
       "benefit_type": "Discount",
-      "value_text": "25% off all plans for the first year",
+      "value_text": "25% off all annual plans for the first year",
       "value_usd": null,
       "eligibility": "Any startup",
       "stages": [
@@ -11599,7 +11599,7 @@
       "recurring_or_expiry": "First year only",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-19T12:00:25.903Z",
       "source_url": "https://userback.io/offer/startups/",
       "apply_url": "https://userback.io/offer/startups/",
       "url": "https://startupperks.co/programs/userback-userback-startup-program"
@@ -11612,8 +11612,8 @@
       "category": "security-legal-hr",
       "category_label": "Security, Legal & HR",
       "benefit_type": "Free plan",
-      "value_text": "Free CMP plan: up to 5,000 unique monthly visitors, full consent management, 2 integrations",
-      "value_usd": null,
+      "value_text": "$0",
+      "value_usd": 0,
       "eligibility": "No funding needed",
       "stages": [
         "any"
@@ -11624,7 +11624,7 @@
       "recurring_or_expiry": "Ongoing",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-19T12:00:25.903Z",
       "source_url": "https://www.ketch.com/pricing",
       "apply_url": "https://www.ketch.com/pricing",
       "url": "https://startupperks.co/programs/ketch-ketch-free-consent-management-plan"
@@ -11662,8 +11662,8 @@
       "category": "security-legal-hr",
       "category_label": "Security, Legal & HR",
       "benefit_type": "Free plan",
-      "value_text": "Free Edition: unlimited users, spaces and connectors, 3 live workflows, one-time $50 AI allowance",
-      "value_usd": null,
+      "value_text": "One time $50 AI allowance",
+      "value_usd": 50,
       "eligibility": "No funding needed",
       "stages": [
         "any"
@@ -11674,7 +11674,7 @@
       "recurring_or_expiry": "Ongoing",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-19T12:00:25.903Z",
       "source_url": "https://www.tines.com/pricing/",
       "apply_url": "https://www.tines.com/pricing/",
       "url": "https://startupperks.co/programs/tines-tines-free-edition-community"
@@ -11714,7 +11714,7 @@
       "category": "productivity-saas",
       "category_label": "Productivity & SaaS",
       "benefit_type": "Free plan",
-      "value_text": "6 months free on the Starter plan ($60/month value)",
+      "value_text": "6 months completely free on the FeatureOS Starter plan ($60/month value)",
       "value_usd": 360,
       "eligibility": "Any startup",
       "stages": [
@@ -11728,7 +11728,7 @@
       "recurring_or_expiry": "6 months free",
       "other_requirements": "Eligible early-stage startups; bootstrapped eligible",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-19T12:00:34.022Z",
       "source_url": "https://featureos.com/startups",
       "apply_url": "https://featureos.com/startups",
       "url": "https://startupperks.co/programs/featureos-featureos-startup-program"
@@ -11782,7 +11782,7 @@
       "recurring_or_expiry": "",
       "other_requirements": "Founded less than 3 years ago; raised under $15M; not a current Netcore customer",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-19T12:00:47.262Z",
       "source_url": "https://netcore.ai/startup-program/",
       "apply_url": "https://netcore.ai/startup-program/",
       "url": "https://startupperks.co/programs/netcore-cloud-netcore-startup-program"
@@ -11845,7 +11845,7 @@
       "category": "security-legal-hr",
       "category_label": "Security, Legal & HR",
       "benefit_type": "Free plan",
-      "value_text": "Free sandbox: 50 verification reports, no credit card required",
+      "value_text": "Free sandbox with 50 verification reports",
       "value_usd": null,
       "eligibility": "No funding needed",
       "stages": [
@@ -11857,7 +11857,7 @@
       "recurring_or_expiry": "",
       "other_requirements": "",
       "confidence": "low",
-      "last_verified": null,
+      "last_verified": "2026-09-19T18:00:46.668Z",
       "source_url": "https://www.cleardil.com/en/kyc-api",
       "apply_url": "https://www.cleardil.com/en/kyc-api",
       "url": "https://startupperks.co/programs/cleardil-free-sandbox"
@@ -11922,7 +11922,7 @@
       "category": "security-legal-hr",
       "category_label": "Security, Legal & HR",
       "benefit_type": "Free plan",
-      "value_text": "Free plan: up to 1,000 API calls/mo (web & iOS), up to 500K/mo Android, plus a 14-day Pro Plus trial",
+      "value_text": "$0/month",
       "value_usd": null,
       "eligibility": "No funding needed",
       "stages": [
@@ -11934,7 +11934,7 @@
       "recurring_or_expiry": "Recurring monthly free allowance",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-19T18:00:46.668Z",
       "source_url": "https://fingerprint.com/pricing/",
       "apply_url": "https://fingerprint.com/pricing/",
       "url": "https://startupperks.co/programs/fingerprint-free-plan"
@@ -11947,8 +11947,8 @@
       "category": "security-legal-hr",
       "category_label": "Security, Legal & HR",
       "benefit_type": "Free plan",
-      "value_text": "Free Forever: up to 10 verifications/month, no card required; pay-as-you-go beyond",
-      "value_usd": null,
+      "value_text": "$0 / per check",
+      "value_usd": 0,
       "eligibility": "No funding needed",
       "stages": [
         "any"
@@ -11959,7 +11959,7 @@
       "recurring_or_expiry": "Recurring monthly free allowance",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-19T18:00:46.668Z",
       "source_url": "https://shuftipro.com/pricing/",
       "apply_url": "https://shuftipro.com/pricing/",
       "url": "https://startupperks.co/programs/shufti-pro-free-forever-plan"
@@ -11999,7 +11999,7 @@
       "category": "security-legal-hr",
       "category_label": "Security, Legal & HR",
       "benefit_type": "Credits",
-      "value_text": "Up to $50,000 in platform credits, plus discounted pricing and guided onboarding",
+      "value_text": "Up to $50,000 in platform credits",
       "value_usd": 50000,
       "eligibility": "Any startup",
       "stages": [
@@ -12013,7 +12013,7 @@
       "recurring_or_expiry": "",
       "other_requirements": "No educational institutions, consultancies, dev shops, or crypto-mining operations.",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-20T00:00:16.358Z",
       "source_url": "https://www.complycube.com/en/company/startup-program/",
       "apply_url": "https://www.complycube.com/en/company/startup-program/",
       "url": "https://startupperks.co/programs/complycube-complycube-startup-program"
@@ -12152,7 +12152,7 @@
       "category": "productivity-saas",
       "category_label": "Productivity & SaaS",
       "benefit_type": "Credits",
-      "value_text": "Up to $3,000 in shop credit for new subscribers",
+      "value_text": "Get up to $3,000 in Quartzy Shop Credit",
       "value_usd": 3000,
       "eligibility": "No funding needed",
       "stages": [
@@ -12164,7 +12164,7 @@
       "recurring_or_expiry": "New Subscriber Program through Sept 30, 2026",
       "other_requirements": "",
       "confidence": "medium",
-      "last_verified": null,
+      "last_verified": "2026-09-20T06:00:23.077Z",
       "source_url": "https://www.quartzy.com/pricing",
       "apply_url": "https://www.quartzy.com/pricing",
       "url": "https://startupperks.co/programs/quartzy-quartzy-new-subscriber-program"
@@ -12254,7 +12254,7 @@
       "category": "dev-tools",
       "category_label": "Developer Tools",
       "benefit_type": "Free plan",
-      "value_text": "Free cloud tier + open-source self-hosting",
+      "value_text": "Free",
       "value_usd": null,
       "eligibility": "No funding needed",
       "stages": [
@@ -12266,7 +12266,7 @@
       "recurring_or_expiry": "",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-20T06:00:32.313Z",
       "source_url": "https://www.medplum.com/pricing",
       "apply_url": "https://www.medplum.com/pricing",
       "url": "https://startupperks.co/programs/medplum-medplum-free-tier-open-source"
@@ -12429,7 +12429,7 @@
       "category": "productivity-saas",
       "category_label": "Productivity & SaaS",
       "benefit_type": "Free plan",
-      "value_text": "Free forever: up to 20 parcels/month, pay per label",
+      "value_text": "Free forever",
       "value_usd": null,
       "eligibility": "No funding needed",
       "stages": [
@@ -12443,7 +12443,7 @@
       "recurring_or_expiry": "Free forever",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-20T18:00:37.251Z",
       "source_url": "https://www.sendcloud.com/pricing/",
       "apply_url": "https://www.sendcloud.com/pricing/",
       "url": "https://startupperks.co/programs/sendcloud-sendcloud-free-plan"
@@ -12456,8 +12456,8 @@
       "category": "marketing-sales",
       "category_label": "Marketing & Sales",
       "benefit_type": "Free plan",
-      "value_text": "Free plan: up to 200 orders/month",
-      "value_usd": null,
+      "value_text": "Free",
+      "value_usd": 0,
       "eligibility": "No funding needed",
       "stages": [
         "any"
@@ -12468,7 +12468,7 @@
       "recurring_or_expiry": "Free forever",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-20T18:00:37.251Z",
       "source_url": "https://smile.io/pricing",
       "apply_url": "https://smile.io/pricing",
       "url": "https://startupperks.co/programs/smileio-smileio-free-plan-loyalty"
@@ -12508,8 +12508,8 @@
       "category": "productivity-saas",
       "category_label": "Productivity & SaaS",
       "benefit_type": "Free plan",
-      "value_text": "Free: publish unlimited courses on WordPress",
-      "value_usd": null,
+      "value_text": "$0 USD",
+      "value_usd": 0,
       "eligibility": "No funding needed",
       "stages": [
         "any"
@@ -12520,7 +12520,7 @@
       "recurring_or_expiry": "Free",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-20T18:00:47.694Z",
       "source_url": "https://senseilms.com/pricing/",
       "apply_url": "https://senseilms.com/pricing/",
       "url": "https://startupperks.co/programs/sensei-lms-sensei-lms-free-core-plugin"
@@ -12589,7 +12589,7 @@
       "category": "productivity-saas",
       "category_label": "Productivity & SaaS",
       "benefit_type": "Free plan",
-      "value_text": "Free 'Lite' plan (up to ~5 orders/month)",
+      "value_text": "FREE",
       "value_usd": null,
       "eligibility": "No funding needed",
       "stages": [
@@ -12603,7 +12603,7 @@
       "recurring_or_expiry": "Free",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-21T00:00:21.896Z",
       "source_url": "https://www.shiprocket.in/pricing/",
       "apply_url": "https://www.shiprocket.in/pricing/",
       "url": "https://startupperks.co/programs/shiprocket-shiprocket-lite-free-plan"
@@ -12716,8 +12716,8 @@
       "category": "productivity-saas",
       "category_label": "Productivity & SaaS",
       "benefit_type": "Free plan",
-      "value_text": "Free 'GO' plan for 1-3 units",
-      "value_usd": null,
+      "value_text": "Free ($0/month)",
+      "value_usd": 0,
       "eligibility": "No funding needed",
       "stages": [
         "any"
@@ -12731,7 +12731,7 @@
       "recurring_or_expiry": "Free forever",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-21T00:00:34.243Z",
       "source_url": "https://www.landlordstudio.com/pricing",
       "apply_url": "https://www.landlordstudio.com/pricing",
       "url": "https://startupperks.co/programs/landlord-studio-landlord-studio-go-free-plan"
@@ -12744,8 +12744,8 @@
       "category": "marketing-sales",
       "category_label": "Marketing & Sales",
       "benefit_type": "Free plan",
-      "value_text": "Free plan: 250 contacts, 500 emails/month",
-      "value_usd": null,
+      "value_text": "$0/mo; No cost. No credit card required.",
+      "value_usd": 0,
       "eligibility": "No funding needed",
       "stages": [
         "any"
@@ -12756,7 +12756,7 @@
       "recurring_or_expiry": "Free forever",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-21T00:00:34.243Z",
       "source_url": "https://www.omnisend.com/pricing/",
       "apply_url": "https://www.omnisend.com/pricing/",
       "url": "https://startupperks.co/programs/omnisend-omnisend-free-plan"
@@ -12796,7 +12796,7 @@
       "category": "dev-tools",
       "category_label": "Developer Tools",
       "benefit_type": "Free plan",
-      "value_text": "Free community license: full suite of 1,600+ controls including dashboards, grids, charts and Bold BI embedded analytics",
+      "value_text": "Free access to all Syncfusion products",
       "value_usd": null,
       "eligibility": "No funding needed",
       "stages": [
@@ -12810,7 +12810,7 @@
       "recurring_or_expiry": "License valid while eligibility criteria are met",
       "other_requirements": "Annual revenue under $1M USD, 5 or fewer developers, 10 or fewer total employees, and never received more than $3M in external (VC/PE) funding. Broader component suite; the analytics fit is via its dashboards/Bold BI and data-viz controls.",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-21T00:00:47.078Z",
       "source_url": "https://www.syncfusion.com/products/communitylicense",
       "apply_url": "https://www.syncfusion.com/products/communitylicense",
       "url": "https://startupperks.co/programs/syncfusion-syncfusion-community-license"
@@ -12823,8 +12823,8 @@
       "category": "security-legal-hr",
       "category_label": "Security, Legal & HR",
       "benefit_type": "Free plan",
-      "value_text": "Free plan $0/month with full AI Document Toolkit + 500+ templates",
-      "value_usd": null,
+      "value_text": "Free plan costs $0/month",
+      "value_usd": 0,
       "eligibility": "No funding needed",
       "stages": [
         "any"
@@ -12835,7 +12835,7 @@
       "recurring_or_expiry": "Free forever",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-21T00:00:47.078Z",
       "source_url": "https://www.genieai.co/pricing",
       "apply_url": "https://www.genieai.co/pricing",
       "url": "https://startupperks.co/programs/genie-ai-genie-ai-free-plan"
@@ -12848,8 +12848,8 @@
       "category": "productivity-saas",
       "category_label": "Productivity & SaaS",
       "benefit_type": "Free plan",
-      "value_text": "Free 'Starter' plan: up to 30 labels/month",
-      "value_usd": null,
+      "value_text": "Free",
+      "value_usd": 0,
       "eligibility": "No funding needed",
       "stages": [
         "any"
@@ -12862,7 +12862,7 @@
       "recurring_or_expiry": "Free forever",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-21T06:00:24.664Z",
       "source_url": "https://goshippo.com/pricing",
       "apply_url": "https://goshippo.com/pricing",
       "url": "https://startupperks.co/programs/shippo-shippo-starter-free-plan"
@@ -12900,7 +12900,7 @@
       "category": "productivity-saas",
       "category_label": "Productivity & SaaS",
       "benefit_type": "Free plan",
-      "value_text": "Free 'Starter' plan: 5 questions/month, unlimited participants",
+      "value_text": "For free",
       "value_usd": null,
       "eligibility": "No funding needed",
       "stages": [
@@ -12912,7 +12912,7 @@
       "recurring_or_expiry": "Free forever",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-21T06:00:33.992Z",
       "source_url": "https://www.wooclap.com/en/pricing/",
       "apply_url": "https://www.wooclap.com/en/pricing/",
       "url": "https://startupperks.co/programs/wooclap-wooclap-starter-free-plan"
@@ -12925,8 +12925,8 @@
       "category": "databases-data",
       "category_label": "Databases & Data",
       "benefit_type": "Credits",
-      "value_text": "30,000 API credits (up to 3 months of full API access)",
-      "value_usd": null,
+      "value_text": "30,000 API credits, valid for up to 3 months",
+      "value_usd": 30000,
       "eligibility": "Incorporated",
       "stages": [
         "pre-seed",
@@ -12939,7 +12939,7 @@
       "recurring_or_expiry": "Credits cover up to 3 months, then tier-based pricing",
       "other_requirements": "Incorporated within 5 years, revenue under $1M, team under 20, not a Veridion competitor, building a data-powered product (fintech, SaaS, insurtech, procuretech or adjacent).",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-21T06:00:33.992Z",
       "source_url": "https://veridion.com/startup-program",
       "apply_url": "https://veridion.com/startup-program",
       "url": "https://startupperks.co/programs/veridion-veridion-startup-program"
@@ -13006,7 +13006,7 @@
       "category": "productivity-saas",
       "category_label": "Productivity & SaaS",
       "benefit_type": "Free plan",
-      "value_text": "Free to use for landlords and tenants",
+      "value_text": "Free to use for landlords",
       "value_usd": null,
       "eligibility": "No funding needed",
       "stages": [
@@ -13020,7 +13020,7 @@
       "recurring_or_expiry": "Free core",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-21T06:00:41.548Z",
       "source_url": "https://www.rentler.com/pricing",
       "apply_url": "https://www.rentler.com/pricing",
       "url": "https://startupperks.co/programs/rentler-rentler-for-landlords-free"
@@ -13141,7 +13141,7 @@
       "category": "dev-tools",
       "category_label": "Developer Tools",
       "benefit_type": "Free plan",
-      "value_text": "Free, fully open-source 130nm foundry PDK (no license fees, no NDA, no export controls) plus ChipIgnite shuttles",
+      "value_text": "Free access to chip design technology",
       "value_usd": null,
       "eligibility": "No funding needed",
       "stages": [
@@ -13155,7 +13155,7 @@
       "recurring_or_expiry": "Shuttles run several times per year",
       "other_requirements": "",
       "confidence": "medium",
-      "last_verified": null,
+      "last_verified": "2026-09-21T06:00:41.548Z",
       "source_url": "https://www.skywatertechnology.com/sky130-open-source-pdk/",
       "apply_url": "https://www.skywatertechnology.com/sky130-open-source-pdk/",
       "url": "https://startupperks.co/programs/skywater-technology-sky130-open-source-pdk"
@@ -13300,7 +13300,7 @@
       "category": "dev-tools",
       "category_label": "Developer Tools",
       "benefit_type": "Free plan",
-      "value_text": "Free Community plan: 10 simulations, up to 3,000 core hours of cloud CFD/FEA",
+      "value_text": "Free for testing and learning",
       "value_usd": null,
       "eligibility": "No funding needed",
       "stages": [
@@ -13315,7 +13315,7 @@
       "recurring_or_expiry": "",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-21T12:00:19.788Z",
       "source_url": "https://www.simscale.com/product/pricing/",
       "apply_url": "https://www.simscale.com/product/pricing/",
       "url": "https://startupperks.co/programs/simscale-simscale-community-plan"
@@ -13355,7 +13355,7 @@
       "category": "dev-tools",
       "category_label": "Developer Tools",
       "benefit_type": "Discount",
-      "value_text": "Discounted MATLAB / MATLAB+Simulink suites (40-90+ add-ons), free online training, 50% off training credits",
+      "value_text": "Low-cost access to MATLAB and Simulink",
       "value_usd": null,
       "eligibility": "Any startup",
       "stages": [
@@ -13370,7 +13370,7 @@
       "recurring_or_expiry": "Annual license",
       "other_requirements": "Typically <5 years old, <15 engineers, <$1M revenue",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-21T12:00:19.788Z",
       "source_url": "https://www.mathworks.com/products/startups.html",
       "apply_url": "https://www.mathworks.com/products/startups.html",
       "url": "https://startupperks.co/programs/mathworks-mathworks-startup-program"
@@ -13410,7 +13410,7 @@
       "category": "dev-tools",
       "category_label": "Developer Tools",
       "benefit_type": "Free plan",
-      "value_text": "5 free seats of Onshape Professional (cloud CAD/PDM/simulation), reapply yearly",
+      "value_text": "At no cost",
       "value_usd": null,
       "eligibility": "Any startup",
       "stages": [
@@ -13425,7 +13425,7 @@
       "recurring_or_expiry": "Reapply annually",
       "other_requirements": "New customers only",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-21T12:00:31.014Z",
       "source_url": "https://www.onshape.com/en/startups",
       "apply_url": "https://www.onshape.com/en/startups",
       "url": "https://startupperks.co/programs/onshape-ptc-onshape-for-startups"
@@ -13467,7 +13467,7 @@
       "category": "productivity-saas",
       "category_label": "Productivity & SaaS",
       "benefit_type": "Discount",
-      "value_text": "50% off any Holded plan for the first 3 months, all features included, with a 14-day free trial and no card required",
+      "value_text": "50% off for 3 months",
       "value_usd": null,
       "eligibility": "Any startup",
       "stages": [
@@ -13484,7 +13484,7 @@
       "recurring_or_expiry": "Discount applies to first 3 months",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-21T18:00:42.810Z",
       "source_url": "https://www.holded.com/startups",
       "apply_url": "https://www.holded.com/startups",
       "url": "https://startupperks.co/programs/holded-holded-for-startups"
@@ -13497,7 +13497,7 @@
       "category": "cloud-infra",
       "category_label": "Cloud & Infrastructure",
       "benefit_type": "Credits",
-      "value_text": "Cleura Startup Program + EUR 50 free trial voucher",
+      "value_text": "Up to €20 000 in free credits",
       "value_usd": null,
       "eligibility": "Any startup",
       "stages": [
@@ -13513,8 +13513,8 @@
       "recurring_or_expiry": "Ongoing",
       "other_requirements": "",
       "confidence": "medium",
-      "last_verified": null,
-      "source_url": "https://cleura.com/",
+      "last_verified": "2026-09-22T06:00:26.643Z",
+      "source_url": "https://cleura.com/cleura-startup-program",
       "apply_url": "https://cleura.com/",
       "url": "https://startupperks.co/programs/cleura-cleura-startup-program"
     },

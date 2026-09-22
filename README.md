@@ -1,52 +1,41 @@
 # StartupPerks Open Dataset
 
 Open, cited data on **startup perks**: the credits, free plans, discounts, and rewards that
-1,048 companies offer to startups, with each program's provider, category, benefit value,
+providers offer to startups, with each program's provider, category, benefit value,
 eligibility, and the primary source it was taken from. One machine-readable dataset, released
 under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**.
 
 Maintained and kept current by **[StartupPerks](https://startupperks.co?utm_source=github&utm_medium=readme&utm_campaign=open-dataset)**,
-an independent, always-current index of startup credits, perks, and deals. The website is the
-canonical, always-current source and re-verifies programs against their own pages on a running
+an independent index of startup credits, perks, and deals. The website is the
+canonical source and re-verifies programs against their own pages on a running
 cadence; this repository is a periodic snapshot of it, regenerated from the live export with
 [`generate.mjs`](generate.mjs).
-<!--STAMP-->Generated 2026-09-17; data last verified against source 2026-09-17.<!--/STAMP-->
+<!--STAMP-->Generated 2026-09-22; newest per-record verification 2026-09-22. Dates vary by record.<!--/STAMP-->
 
 > **Attribution (required by the licence):** if you use this data, credit **StartupPerks** with a
 > link to <https://startupperks.co>. That is the whole ask.
 
+<!--CATALOG-->
 ## What is in here
 
-`data/startupperks-dataset.*` holds **1,058 startup-perk programs from 1,048 distinct providers**,
-across 9 categories. Every row carries the provider, the benefit type and its value (both as the
-provider states it and, where a specific dollar figure is published, a normalized USD amount),
-who qualifies, the geographies it applies to, a confidence flag, and the **primary-source URL** the
-program was read from.
+**1,058 program records from 1,048 providers**, across 9 categories.
+Each record carries the provider, benefit type, stated value, eligibility, geography,
+confidence and source URL. Values are advertised terms, not guaranteed awards or additive savings.
 
-- **Benefit mix:** 543 free or startup plans, 280 credit programs, 182 discounts, 30 cash /
-  rewards programs, and 23 structured programs.
-- **Dollar values:** 190 of the 1,058 programs publish a specific benefit figure. Among those the
-  **median is $10,000**, with the largest advertised programs reaching $500,000 and the biggest
-  cloud credits at $250,000 to $350,000 (Snowflake, Google for Startups, Cloudflare). These figures
-  are *advertised maximums*, not additive: a startup qualifies for a subset, and the top-of-band
-  amount is rarely the amount most companies receive.
-- **Openness:** the large majority of tracked programs are open to any startup, with no accelerator,
-  incubator, or investor referral required (our analysis of the full catalog puts this at roughly 9
-  in 10). The folklore that the good deals need a YC badge does not hold up against the data. See the
-  write-up: [What 1,076 startup perk programs reveal](https://startupperks.co/blog/what-1076-startup-perk-programs-reveal-2026?utm_source=github&utm_medium=readme&utm_campaign=open-dataset).
-- **Confidence:** 583 programs are flagged high-confidence (read from the provider's own page);
-  the rest are medium or low pending a primary re-read.
+- **Benefit types:** Discount: 182, Credits: 280, Free plan: 543, Cash & rewards: 30, Program: 23.
+- **Positive USD values:** 192 programs; median $10,000 and maximum $500,000.
+- **Confidence:** 583 records carry the catalog's high-confidence classification; check each record's source and verification date before relying on current terms.
 
 ## Files
 
 | File | Rows | Format |
 |------|------|--------|
-| `data/startupperks-dataset.json` | 1,058 programs | JSON, with a self-describing envelope (name, licence, fields, `last_verified`) plus the records |
-| `data/startupperks-dataset.csv` | 1,058 programs | CSV (RFC 4180), one row per program |
+| data/startupperks-dataset.json | 1,058 | JSON with metadata, field definitions and records |
+| data/startupperks-dataset.csv | 1,058 | CSV, one row per program |
 
-See **[DATA_DICTIONARY.md](DATA_DICTIONARY.md)** for every field.
+See [DATA_DICTIONARY.md](DATA_DICTIONARY.md) for every field.
 
-## The nine categories
+## Categories
 
 | Category | Programs |
 |----------|---------:|
@@ -59,20 +48,24 @@ See **[DATA_DICTIONARY.md](DATA_DICTIONARY.md)** for every field.
 | Finance & Ops | 92 |
 | Marketing & Sales | 84 |
 | Databases & Data | 69 |
+<!--/CATALOG-->
 
+<!--EXAMPLES-->
 ## A few of the programs
 
-Explore any of these in context on the site (every figure links to the provider's own page):
+Terms in this snapshot, with links to their cited program pages:
 
-- [Google for Startups Cloud Program](https://startupperks.co/programs/google-for-startups-cloud-program?utm_source=github&utm_medium=readme&utm_campaign=open-dataset) up to $350,000 in cloud credits (Cloud & Infrastructure)
-- [Cloudflare for Startups](https://startupperks.co/programs/cloudflare-for-startups?utm_source=github&utm_medium=readme&utm_campaign=open-dataset) up to $350,000 (Cloud & Infrastructure)
-- [Snowflake Startup Program](https://startupperks.co/programs/snowflake-startup-program-startup-accelerator?utm_source=github&utm_medium=readme&utm_campaign=open-dataset) up to $250,000 (Databases & Data)
-- Cloud, AI-compute, banking, and dev-tool programs from AWS, Microsoft, NVIDIA, Brex, Ramp, Mercury, OpenAI, and 1,000+ more.
+- [Google for Startups Cloud Program](https://startupperks.co/programs/google-for-startups-cloud-program?utm_source=github&utm_medium=readme&utm_campaign=open-dataset): Up to $200,000 USD in Google Cloud (up to $350,000 USD for AI startups)
+- [Cloudflare for Startups](https://startupperks.co/programs/cloudflare-for-startups?utm_source=github&utm_medium=readme&utm_campaign=open-dataset): Up to $350,000 in credits
+- [Snowflake Startup Program / Startup Accelerator](https://startupperks.co/programs/snowflake-startup-program-startup-accelerator?utm_source=github&utm_medium=readme&utm_campaign=open-dataset): Up to $250K credits
+<!--/EXAMPLES-->
 
 Browse everything: [all programs](https://startupperks.co/programs?utm_source=github&utm_medium=readme&utm_campaign=open-dataset)
  · [by category](https://startupperks.co/categories?utm_source=github&utm_medium=readme&utm_campaign=open-dataset)
  · [ranked by value](https://startupperks.co/value?utm_source=github&utm_medium=readme&utm_campaign=open-dataset)
  · or [match your own startup](https://startupperks.co/?utm_source=github&utm_medium=readme&utm_campaign=open-dataset).
+
+Research based on the earlier 1,076-program catalog: [What startup perk programs reveal](https://startupperks.co/blog/what-1076-startup-perk-programs-reveal-2026?utm_source=github&utm_medium=readme&utm_campaign=open-dataset).
 
 ## Methodology and integrity
 
@@ -101,8 +94,7 @@ fetches the public dataset API and rewrites the files in `data/`:
 node generate.mjs
 ```
 
-No key is required; the endpoint is public and read-only, so anyone can reproduce this snapshot
-exactly. For always-current data, query the live API directly, filterable by category:
+No key is required; the endpoint is public and read-only, so anyone can regenerate a current snapshot. For always-current data, query the live API directly, filterable by category:
 
 ```bash
 curl https://startupperks.co/api/dataset                 # full dataset, JSON
