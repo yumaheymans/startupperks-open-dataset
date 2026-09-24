@@ -1,6 +1,6 @@
 # Data dictionary
 
-The dataset is one table: **one row per startup-perk program** (1,076 rows). The JSON file wraps
+The dataset is one table: **one row per startup-perk program** (the README states the current count). The JSON file wraps
 the records in a self-describing envelope (`name`, `description`, `license`, `attribution`,
 `methodology`, `generated_at`, `last_verified`, `record_count`, `fields`, `records`); the CSV is the
 records only, with the header below. Blank / null means "not published or unknown", never a guess.
