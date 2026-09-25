@@ -16,7 +16,7 @@
     "startup discounts",
     "founder benefits"
   ],
-  "generated_at": "2026-09-25T09:48:32.560Z",
+  "generated_at": "2026-09-25T10:00:55.620Z",
   "last_verified": "2026-09-25T06:00:52.937Z",
   "record_count": 1058,
   "fields": [
@@ -216,8 +216,8 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "Up to $200,000 USD over 2 years",
-      "value_usd": 200000,
+      "value_text": "Over $350,000 in partner discounts",
+      "value_usd": null,
       "eligibility": "Any startup",
       "stages": [
         "pre-seed",
@@ -2216,7 +2216,7 @@
     },
     {
       "key": "mercury-business-banking-new-account-cash-bonus",
-      "name": "Mercury Business Banking + New Account Cash Bonus",
+      "name": "Mercury Business Banking + Referral Bonus",
       "provider": "Mercury",
       "provider_slug": "mercury",
       "category": "banking-fintech",
@@ -2225,8 +2225,8 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "Up to $250 discount",
-      "value_usd": 250,
+      "value_text": "Referral bonus (amount shown on the referral page)",
+      "value_usd": null,
       "eligibility": "Any startup",
       "stages": [
         "idea",
@@ -2240,11 +2240,11 @@
       "geographies": [
         "US"
       ],
-      "recurring_or_expiry": "One-time bonus per new account; promo terms subject to change.",
-      "other_requirements": "New Mercury customers only; US-incorporated business (LLC or C-corp) with an EIN. Not for sole proprietors. Deposit threshold within 90 days.",
-      "confidence": "medium",
+      "recurring_or_expiry": "Referral terms as displayed on the referral page.",
+      "other_requirements": "New Mercury customers who sign up through a referral link; a US-registered company with an EIN. The thresholds and amount are shown on the referral page.",
+      "confidence": "high",
       "last_verified": null,
-      "source_url": "https://mercury.com/",
+      "source_url": "https://mercury.com/legal/referred-customer-agreement",
       "apply_url": "https://mercury.com/",
       "url": "https://startupperks.co/programs/mercury-business-banking-new-account-cash-bonus"
     },
@@ -2493,7 +2493,7 @@
     },
     {
       "key": "rho-business-banking-treasury-new-account-cash-bonus",
-      "name": "Rho Business Banking + Treasury (New Account Cash Bonus)",
+      "name": "Rho Business Banking + Treasury",
       "provider": "Rho",
       "provider_slug": "rho",
       "category": "banking-fintech",
@@ -2502,7 +2502,7 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "Up to 2% off",
+      "value_text": "Up to 2% cashback on cards (Rho Platinum) + free business checking",
       "value_usd": null,
       "eligibility": "Incorporated",
       "stages": [
@@ -2517,8 +2517,8 @@
       "geographies": [
         "US"
       ],
-      "recurring_or_expiry": "Promo bonus terms rotate; treasury yield variable.",
-      "other_requirements": "New Rho customers; US-incorporated business. Treasury yield requires a $100k minimum. Deposit-bonus threshold ($20k in 60 days) tied to a specific promo.",
+      "recurring_or_expiry": "Ongoing; yields and cashback terms can change.",
+      "other_requirements": "A US-incorporated LLC or corporation with an EIN; sole proprietorships are not eligible. Rho Platinum cashback requires routing payroll and revenue through Rho and holding most company assets there. Treasury requires $50,000.",
       "confidence": "medium",
       "last_verified": null,
       "source_url": "https://www.rho.co/startups",
@@ -3451,7 +3451,7 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "$175K+ in partner perks incl. $5,000 AWS credits",
+      "value_text": "Free business banking + partner perks marketplace",
       "value_usd": null,
       "eligibility": "No funding needed",
       "stages": [
@@ -3462,8 +3462,8 @@
       "geographies": [
         "US"
       ],
-      "recurring_or_expiry": "Ongoing perks marketplace; $250 deposit bonus is a one-time promotion.",
-      "other_requirements": "Requires a US-incorporated company (including foreign founders with a US entity). Perk values are third-party partner offers aggregated by Mercury.",
+      "recurring_or_expiry": "Ongoing perks marketplace; individual partner offers have their own terms.",
+      "other_requirements": "A US-registered company (LLC, corporation, partnership or non-profit) with an EIN; founders can live outside the US. Sole proprietorships and trusts are not supported. Perks are third-party partner offers.",
       "confidence": "high",
       "last_verified": null,
       "source_url": "https://mercury.com/perks",
@@ -3759,8 +3759,8 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "More than $3,000 in savings",
-      "value_usd": 3000,
+      "value_text": "More than $3,000 in partner perks (savings on QuickBooks, Dropbox, Slack and more)",
+      "value_usd": null,
       "eligibility": "No funding needed",
       "stages": [
         "idea",
@@ -3773,7 +3773,7 @@
         "United States"
       ],
       "recurring_or_expiry": "Perks catalog updates over time.",
-      "other_requirements": "US-registered business; perks available to Novo account holders. Specific partner offers change over time.",
+      "other_requirements": "A US-registered business whose owners live in the US; perks are available to Novo account holders and partner offers change over time.",
       "confidence": "medium",
       "last_verified": "2026-09-06T18:00:27.503Z",
       "source_url": "https://www.novo.co/perks",
@@ -4791,7 +4791,7 @@
         "United States"
       ],
       "recurring_or_expiry": "Ongoing; Starter plan is free indefinitely.",
-      "other_requirements": "",
+      "other_requirements": "US corporations, LLCs, general partnerships and sole proprietors with an operating presence in the US; owners can be citizens of over 200 countries.",
       "confidence": "high",
       "last_verified": null,
       "source_url": "https://relayfi.com/pricing/",
@@ -4893,7 +4893,7 @@
         "India",
         "Asia-Pacific"
       ],
-      "recurring_or_expiry": "Free checking for the first three years; card bonus offer terms may change.",
+      "recurring_or_expiry": "Ongoing; the card points offer ends December 31, 2026.",
       "other_requirements": "Aimed at technology and life-science/healthcare startups; SVB provides banking, not direct funding.",
       "confidence": "high",
       "last_verified": "2026-09-07T12:00:28.029Z",
@@ -4912,7 +4912,7 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "No monthly fee, 3.14% APY, $31 one-off setup",
+      "value_text": "No monthly fee; in the US, 3.4% APY on USD (variable) and a 31 USD one-off account-details fee",
       "value_usd": null,
       "eligibility": "Any startup",
       "stages": [
@@ -5127,7 +5127,7 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "Free checking + up to 4% APY savings",
+      "value_text": "Free checking + savings at 2.25% APY on the first $500,000",
       "value_usd": null,
       "eligibility": "Any startup",
       "stages": [
@@ -7451,7 +7451,7 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "Free startup checking; 1% cash back; up to 4.00% APY; partner marketplace",
+      "value_text": "Free startup checking; up to 1.35% APY; 1% cash back; partner marketplace",
       "value_usd": null,
       "eligibility": "No funding needed",
       "stages": [
@@ -7466,10 +7466,10 @@
         "United States"
       ],
       "recurring_or_expiry": "Ongoing (Accelerator Checking launched Oct 2023)",
-      "other_requirements": "US-registered business.",
+      "other_requirements": "For startups; the applicant must be 18 or older and a US citizen or permanent resident with an address in the 50 states or DC.",
       "confidence": "high",
       "last_verified": null,
-      "source_url": "https://www.grasshopper.bank/press-releases/accelerator-checking/",
+      "source_url": "https://www.grasshopper.bank/banking-solutions/startup-banking/",
       "apply_url": "https://www.grasshopper.bank/",
       "url": "https://startupperks.co/programs/grasshopper-bank-accelerator-checking"
     },

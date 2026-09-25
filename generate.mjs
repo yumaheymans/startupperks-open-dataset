@@ -195,8 +195,12 @@ Data: [StartupPerks open dataset](../README.md), [CC BY 4.0](https://creativecom
     if (l.rows.length === 0) throw new Error(`list ${l.file} is empty; refusing to publish it`);
   }
 
-  // Index table for the README: every list, its size, and its three largest named programs.
-  const includes = (rows) => [...new Set([...rows].sort(byValue).map((r) => r.provider))].slice(0, 3).join(", ");
+  // Index table for the README: every list, its size, and its three largest named programs. Only programs
+  // that state a US dollar value can be "largest"; unpriced ones sort alphabetically and are never named here.
+  const includes = (rows) => {
+    const priced = [...new Set([...rows].filter((r) => r.value_usd > 0).sort(byValue).map((r) => r.provider))].slice(0, 3);
+    return priced.length ? priced.join(", ") : "Mostly free plans and non-USD benefits";
+  };
   const listIndex = `## Browse the lists
 
 ${fmt(records.length)} programs, one Markdown list per category plus cross-category lists, each program linked to the provider's own page:

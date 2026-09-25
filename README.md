@@ -26,7 +26,7 @@ cadence; this repository is a periodic snapshot of it, regenerated from the live
 | [Cloud Credits for Startups](lists/cloud-and-infrastructure.md) | 123 | Denvr Dataworks, Cloudflare, Google Cloud |
 | [Developer Tool Perks for Startups](lists/developer-tools.md) | 177 | Datadog, Grafana Labs, Kong |
 | [Database and Data Platform Credits for Startups](lists/databases-and-data.md) | 69 | Snowflake, Databricks, Aiven |
-| [Startup Banking and Fintech Perks](lists/banking-and-fintech.md) | 108 | Brex, Novo, Stripe |
+| [Startup Banking and Fintech Perks](lists/banking-and-fintech.md) | 108 | Stripe |
 | [Finance and Operations Perks for Startups](lists/finance-and-ops.md) | 92 | Fondo, RevenueCat, doola |
 | [Marketing and Sales Tools for Startups](lists/marketing-and-sales.md) | 84 | Vonage, Infobip, Netcore Cloud |
 | [Productivity and SaaS Deals for Startups](lists/productivity-and-saas.md) | 102 | Sanity, Grain, Bubble |
@@ -44,8 +44,8 @@ Each record carries the provider, benefit type, stated value, eligibility, geogr
 confidence and source URL. Values are advertised terms, not guaranteed awards or additive savings.
 
 - **Benefit types:** Discount: 182, Credits: 280, Free plan: 543, Cash & rewards: 30, Program: 23.
-- **Positive USD values:** 179 programs; median $9,000 and maximum $500,000.
-- **Confidence:** 583 records carry the catalog's high-confidence classification; check each record's source and verification date before relying on current terms.
+- **Positive USD values:** 176 programs; median $9,500 and maximum $500,000.
+- **Confidence:** 584 records carry the catalog's high-confidence classification; check each record's source and verification date before relying on current terms.
 
 ## Files
 
