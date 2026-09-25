@@ -2,7 +2,7 @@
 
 108 startup programs for banking and fintech: business accounts, corporate cards, payments and treasury. Each program links to the provider's own page, where its terms are published. **Details** opens the program's StartupPerks page with eligibility, verification notes and similar programs.
 
-Generated 2026-09-24 from the [StartupPerks open dataset](../README.md). 23 of these 108 programs were re-checked against the provider's page in the 30 days before that date; terms change, so confirm on the provider's page before you apply.
+Generated 2026-09-25 from the [StartupPerks open dataset](../README.md). 23 of these 108 programs were re-checked against the provider's page in the 30 days before that date; terms change, so confirm on the provider's page before you apply.
 
 **Jump to:** [Credits](#credits) (3) · [Discounts](#discounts) (4) · [Programs](#programs) (5) · [Cash and rewards](#cash-and-rewards) (23) · [Free plans](#free-plans) (73)
 
@@ -35,7 +35,7 @@ Programs with a comparable US dollar figure come first, largest first; the rest 
 
 | Program | Stated value | Who qualifies | Region | More |
 |---------|--------------|---------------|--------|------|
-| [Aspire for Startups Rewards](https://aspireapp.com/rewards) | Over USD $500k worth of benefits | No funding required; pre-seed to Series A | Singapore, Hong Kong | [Details](https://startupperks.co/programs/aspire-aspire-for-startups-rewards?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
+| [Aspire for Startups Rewards](https://aspireapp.com/rewards) | $500k+ in partner perks incl. up to $200k Google Cloud, $150k Azure, $100k AWS credits; 10% cashback on AI spend (first 3 months) | No funding required; pre-seed to Series A | Singapore, Hong Kong | [Details](https://startupperks.co/programs/aspire-aspire-for-startups-rewards?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Innovation Economy Banking (J.P. Morgan for Startups)](https://www.jpmorgan.com/commercial-banking/startups) | No fees for up to three years on included services | Any startup | United States | [Details](https://startupperks.co/programs/jp-morgan-innovation-economy-banking-j-p-morgan-for-startups?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Kodo for Startups](https://www.kodo.com/) | Corporate cards and spend management built for startups; no long implementation | No funding required | India | [Details](https://startupperks.co/programs/kodo-kodo-for-startups?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Razorpay Rize](https://razorpay.com/rize/) | Low-fee company incorporation, founder communities, curated partner deals, ~$11K cloud credits (GCP/AWS/Azure/OpenAI per testimonials) | No funding required; idea to seed | India | [Details](https://startupperks.co/programs/razorpay-razorpay-rize?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
@@ -47,7 +47,6 @@ Programs with a comparable US dollar figure come first, largest first; the rest 
 
 | Program | Stated value | Who qualifies | Region | More |
 |---------|--------------|---------------|--------|------|
-| [Jeeves Corporate Card & Rewards](https://www.tryjeeves.com/us/rewards) | Up to $100,000 in savings | Any startup | United States, Canada, United Kingdom +3 more | [Details](https://startupperks.co/programs/jeeves-corporate-card?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Mercury Business Banking + New Account Cash Bonus](https://mercury.com/) | Up to $250 discount | Any startup | United States | [Details](https://startupperks.co/programs/mercury-business-banking-new-account-cash-bonus?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Alaan Corporate Cards & Business Account](https://www.alaan.com/) | Free to start; cashback plus discounts on business tools and workspaces | No funding required | United Arab Emirates, Saudi Arabia | [Details](https://startupperks.co/programs/alaan-alaan-corporate-cards-business-account?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Arc Treasury & Cash Management for Startups](https://www.joinarc.com/treasury-management) | Up to 4.65% yield | VC- or accelerator-backed | United States | [Details](https://startupperks.co/programs/arc-treasury-and-cash-management-for-startups?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
@@ -58,6 +57,7 @@ Programs with a comparable US dollar figure come first, largest first; the rest 
 | [Flex Business Banking & Cards](https://www.flex.one/) | 2% cash back business card; Net-60 0% for 60 days; banking + working capital | No funding required | United States | [Details](https://startupperks.co/programs/flex-flex-business-banking-cards?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Float for Startups](https://floatfinancial.com) | Corporate cards with cash back and yield | Incorporated companies | Canada | [Details](https://startupperks.co/programs/float-financial-float-for-startups?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Fyorin Financial Operations](https://fyorin.com) | Multi-currency accounts with cash rebate cards | Incorporated companies | Global | [Details](https://startupperks.co/programs/fyorin-fyorin-financial-operations?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
+| [Jeeves Corporate Card & Rewards](https://www.tryjeeves.com/us/rewards) | Up to 1% cash back + $100K+ partner perks | Any startup | United States, Canada, United Kingdom +3 more | [Details](https://startupperks.co/programs/jeeves-corporate-card?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Juni Business Account + Cashback](https://www.juni.co/) | Free account plus up to 1% cashback | Incorporated companies | Europe, United Kingdom, Norway | [Details](https://startupperks.co/programs/juni-juni-business-account-cashback?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Karbon Corporate Cards](https://karboncard.com/) | Corporate cards with substantial cashback for Indian startups | No funding required | India | [Details](https://startupperks.co/programs/karbon-card-karbon-corporate-cards?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Mamo Business (cashback)](https://www.mamopay.com/) | Free to start; unlimited free cards; up to 8% cashback on card spend | No funding required | United Arab Emirates | [Details](https://startupperks.co/programs/mamo-mamo-business-cashback?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |

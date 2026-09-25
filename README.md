@@ -10,7 +10,7 @@ an independent index of startup credits, perks, and deals. The website is the
 canonical source and re-verifies programs against their own pages on a running
 cadence; this repository is a periodic snapshot of it, regenerated from the live export with
 [`generate.mjs`](generate.mjs).
-<!--STAMP-->Generated 2026-09-24; newest per-record verification 2026-09-24. Dates vary by record.<!--/STAMP-->
+<!--STAMP-->Generated 2026-09-25; newest per-record verification 2026-09-25. Dates vary by record.<!--/STAMP-->
 
 > **Attribution (required by the licence):** if you use this data, credit **StartupPerks** with a
 > link to <https://startupperks.co>. That is the whole ask.
@@ -22,12 +22,12 @@ cadence; this repository is a periodic snapshot of it, regenerated from the live
 
 | List | Programs | Largest stated values include |
 |------|---------:|-------------------------------|
-| [AI Startup Credits and Perks](lists/ai-and-ml.md) | 118 | Nebius, Daytona, Deepgram |
+| [AI Startup Credits and Perks](lists/ai-and-ml.md) | 118 | Nebius, Anthropic, Daytona |
 | [Cloud Credits for Startups](lists/cloud-and-infrastructure.md) | 123 | Denvr Dataworks, Cloudflare, Google Cloud |
 | [Developer Tool Perks for Startups](lists/developer-tools.md) | 177 | Datadog, Grafana Labs, Kong |
 | [Database and Data Platform Credits for Startups](lists/databases-and-data.md) | 69 | Snowflake, Databricks, Aiven |
-| [Startup Banking and Fintech Perks](lists/banking-and-fintech.md) | 108 | Aspire, Brex, Jeeves |
-| [Finance and Operations Perks for Startups](lists/finance-and-ops.md) | 92 | Fondo, Capbase, RevenueCat |
+| [Startup Banking and Fintech Perks](lists/banking-and-fintech.md) | 108 | Brex, Novo, Stripe |
+| [Finance and Operations Perks for Startups](lists/finance-and-ops.md) | 92 | Fondo, RevenueCat, doola |
 | [Marketing and Sales Tools for Startups](lists/marketing-and-sales.md) | 84 | Vonage, Infobip, Netcore Cloud |
 | [Productivity and SaaS Deals for Startups](lists/productivity-and-saas.md) | 102 | Sanity, Grain, Bubble |
 | [Security, Compliance, Legal and HR Perks for Startups](lists/security-legal-and-hr.md) | 185 | ComplyCube, Drata, LowerPlane |
@@ -44,7 +44,7 @@ Each record carries the provider, benefit type, stated value, eligibility, geogr
 confidence and source URL. Values are advertised terms, not guaranteed awards or additive savings.
 
 - **Benefit types:** Discount: 182, Credits: 280, Free plan: 543, Cash & rewards: 30, Program: 23.
-- **Positive USD values:** 186 programs; median $10,000 and maximum $500,000.
+- **Positive USD values:** 179 programs; median $9,000 and maximum $500,000.
 - **Confidence:** 583 records carry the catalog's high-confidence classification; check each record's source and verification date before relying on current terms.
 
 ## Files

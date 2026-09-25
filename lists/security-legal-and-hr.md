@@ -2,7 +2,7 @@
 
 185 startup programs for security, legal and HR: compliance automation, identity and verification, password management, security testing and global HR. Each program links to the provider's own page, where its terms are published. **Details** opens the program's StartupPerks page with eligibility, verification notes and similar programs.
 
-Generated 2026-09-24 from the [StartupPerks open dataset](../README.md). 39 of these 185 programs were re-checked against the provider's page in the 30 days before that date; terms change, so confirm on the provider's page before you apply.
+Generated 2026-09-25 from the [StartupPerks open dataset](../README.md). 40 of these 185 programs were re-checked against the provider's page in the 30 days before that date; terms change, so confirm on the provider's page before you apply.
 
 **Jump to:** [Credits](#credits) (4) · [Discounts](#discounts) (61) · [Programs](#programs) (3) · [Cash and rewards](#cash-and-rewards) (1) · [Free plans](#free-plans) (116)
 
@@ -211,7 +211,7 @@ Programs with a comparable US dollar figure come first, largest first; the rest 
 | [Superagent Free for Open Source](https://www.superagent.sh/) | Free for open-source projects | No funding required; idea to Series A | Global | [Details](https://startupperks.co/programs/superagent-superagent-free-for-open-source?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [SuperTokens (open source + free cloud)](https://supertokens.com/pricing) | Free under 5K monthly active users | No funding required; idea to seed | Global | [Details](https://startupperks.co/programs/supertokens-supertokens-open-source-free-cloud?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Swyft Filings Basic ($0 Formation)](https://www.swyftfilings.com/) | $0 LLC formation (plus state fees) | No funding required; idea to pre-seed | United States | [Details](https://startupperks.co/programs/swyft-filings-swyft-filings-basic-0-formation?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
-| [TalentHR Free Plan](https://www.talenthr.io/free-plan) | Free HR account with no time limit | No funding required | Global | [Details](https://startupperks.co/programs/talenthr-talenthr-free-plan?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
+| [TalentHR Free Plan](https://www.talenthr.io/free-plan) | Free account with no time limits | No funding required | Global | [Details](https://startupperks.co/programs/talenthr-talenthr-free-plan?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Teleport Community Edition](https://goteleport.com/community/) | Apache-2 licensed open source project | No funding required | Global | [Details](https://startupperks.co/programs/teleport-teleport-community-edition?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Termly Free](https://termly.io/products/pricing/) | Free plan at $0 | No funding required; idea to seed | Global | [Details](https://startupperks.co/programs/termly-termly-free?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [TimeCamp Free plan](https://www.timecamp.com/pricing/) | Free forever, unlimited users | No funding required | Global | [Details](https://startupperks.co/programs/timecamp-timecamp-free-plan?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |

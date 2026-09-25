@@ -2,7 +2,7 @@
 
 92 startup programs for finance and operations: accounting and tax, incorporation and compliance, spend management and back office. Each program links to the provider's own page, where its terms are published. **Details** opens the program's StartupPerks page with eligibility, verification notes and similar programs.
 
-Generated 2026-09-24 from the [StartupPerks open dataset](../README.md). 24 of these 92 programs were re-checked against the provider's page in the 30 days before that date; terms change, so confirm on the provider's page before you apply.
+Generated 2026-09-25 from the [StartupPerks open dataset](../README.md). 24 of these 92 programs were re-checked against the provider's page in the 30 days before that date; terms change, so confirm on the provider's page before you apply.
 
 **Jump to:** [Credits](#credits) (3) · [Discounts](#discounts) (14) · [Programs](#programs) (1) · [Cash and rewards](#cash-and-rewards) (1) · [Free plans](#free-plans) (73)
 
@@ -25,11 +25,11 @@ Programs with a comparable US dollar figure come first, largest first; the rest 
 | Program | Stated value | Who qualifies | Region | More |
 |---------|--------------|---------------|--------|------|
 | [Fondo Tax Credits + Startup Bookkeeping (YC partner deal)](https://fondo.com/tax-credits) | Up to $500,000 per year in R&D tax credits | No funding required; pre-seed to Series A; raised under $5M | United States | [Details](https://startupperks.co/programs/fondo-tax-credits-startup-bookkeeping-yc-partner-deal?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
-| [Capbase startup partner perks](https://capbase.com/pricing/) | Get $25k+ in discounts for your startup | Any startup; idea to seed | United States | [Details](https://startupperks.co/programs/capbase-capbase-startup-partner-perks?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [doola startup discount](https://www.doola.com/) | Up to $750 off all plans | No funding required; idea to seed | Global | [Details](https://startupperks.co/programs/doola-doola-startup-discount?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Pilot Startup Booster + Pre-Revenue Discount](https://pilot.com/startup-booster) | $750 during your first year | Incorporated companies; idea to seed; under 1 year old | United States | [Details](https://startupperks.co/programs/pilot-startup-booster-pre-revenue-discount?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Clemta (Mercury perk)](https://clemta.com/) | $300 off formation and compliance | No funding required; idea to seed | Global | [Details](https://startupperks.co/programs/clemta-clemta-mercury-perk?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Astrella (extended free use)](https://www.astrella.com/) | Free trial + up to 1 year free on multi-year plans | No funding required | Global | [Details](https://startupperks.co/programs/astrella-astrella-extended-free-use?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
+| [Capbase startup partner perks](https://capbase.com/pricing/) | $25K+ in startup partner discounts | Any startup; idea to seed | United States | [Details](https://startupperks.co/programs/capbase-capbase-startup-partner-perks?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [FreshBooks New-Customer Discount](https://www.freshbooks.com/pricing) | 90% off FreshBooks for 3 months | No funding required | Global | [Details](https://startupperks.co/programs/freshbooks-new-customer-discount?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [MYOB: Launch discount and trial](https://www.myob.com/au/pricing) | 70% off + 14-day trial | No funding required | Australia | [Details](https://startupperks.co/programs/myob-launch-discount-and-trial?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Maxio for Startups](https://go.maxio.com/startups/demo/) | Startup program pricing | Any startup; seed to Series B+ | Global | [Details](https://startupperks.co/programs/maxio-maxio-for-startups?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
