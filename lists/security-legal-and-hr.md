@@ -2,7 +2,7 @@
 
 185 startup programs for security, legal and HR: compliance automation, identity and verification, password management, security testing and global HR. Each program links to the provider's own page, where its terms are published. **Details** opens the program's StartupPerks page with eligibility, verification notes and similar programs.
 
-Generated 2026-09-25 from the [StartupPerks open dataset](../README.md). 40 of these 185 programs were re-checked against the provider's page in the 30 days before that date; terms change, so confirm on the provider's page before you apply.
+Generated 2026-09-26 from the [StartupPerks open dataset](../README.md). 41 of these 185 programs were re-checked against the provider's page in the 30 days before that date; terms change, so confirm on the provider's page before you apply.
 
 **Jump to:** [Credits](#credits) (4) · [Discounts](#discounts) (61) · [Programs](#programs) (3) · [Cash and rewards](#cash-and-rewards) (1) · [Free plans](#free-plans) (116)
 
@@ -207,7 +207,7 @@ Programs with a comparable US dollar figure come first, largest first; the rest 
 | [Socket Free](https://socket.dev/pricing) | $0 | No funding required; idea to seed | Global | [Details](https://startupperks.co/programs/socket-socket-free?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [StaffAny Startup Plan](https://www.staffany.com/startup-plan/) | Free for up to 25 staff | No funding required; idea to seed | Singapore, Malaysia, Southeast Asia | [Details](https://startupperks.co/programs/staffany-staffany-startup-plan?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Stytch Startup Program](https://stytch.com/credits) | Free until Series A (up to $5K credits) | VC- or accelerator-backed; idea to seed; under 2 years old; raised under $5M | Global | [Details](https://startupperks.co/programs/stytch-startup-program?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
-| [Sumsub for Startups](https://sumsub.com/) | Free verifications for startups | Any startup; pre-seed to Series A | Global | [Details](https://startupperks.co/programs/sumsub-sumsub-for-startups?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
+| [Sumsub for Startups](https://sumsub.com/) (applications closed) | Free verifications for startups | Any startup; pre-seed to Series A | Global | [Details](https://startupperks.co/programs/sumsub-sumsub-for-startups?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Superagent Free for Open Source](https://www.superagent.sh/) | Free for open-source projects | No funding required; idea to Series A | Global | [Details](https://startupperks.co/programs/superagent-superagent-free-for-open-source?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [SuperTokens (open source + free cloud)](https://supertokens.com/pricing) | Free under 5K monthly active users | No funding required; idea to seed | Global | [Details](https://startupperks.co/programs/supertokens-supertokens-open-source-free-cloud?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Swyft Filings Basic ($0 Formation)](https://www.swyftfilings.com/) | $0 LLC formation (plus state fees) | No funding required; idea to pre-seed | United States | [Details](https://startupperks.co/programs/swyft-filings-swyft-filings-basic-0-formation?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |

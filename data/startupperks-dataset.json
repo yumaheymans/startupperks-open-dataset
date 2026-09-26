@@ -16,8 +16,8 @@
     "startup discounts",
     "founder benefits"
   ],
-  "generated_at": "2026-09-25T10:00:55.620Z",
-  "last_verified": "2026-09-25T06:00:52.937Z",
+  "generated_at": "2026-09-26T19:36:08.338Z",
+  "last_verified": "2026-09-26T18:00:35.350Z",
   "record_count": 1058,
   "fields": [
     {
@@ -284,7 +284,7 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "Up to $350,000 in credits",
+      "value_text": "Up to $350k in credits",
       "value_usd": 350000,
       "eligibility": "Any startup",
       "stages": [
@@ -298,7 +298,7 @@
       "recurring_or_expiry": "One-time credit grant.",
       "other_requirements": "Building a software/SaaS product, founded within last 5 years, valid website and matching email. Direct applications accepted for lower tiers; $100K/$250K require an approved partner. Non-dilutive.",
       "confidence": "high",
-      "last_verified": "2026-08-14T07:01:05.370Z",
+      "last_verified": "2026-09-26T11:54:15.042Z",
       "source_url": "https://www.cloudflare.com/forstartups/",
       "apply_url": "https://www.cloudflare.com/forstartups/",
       "url": "https://startupperks.co/programs/cloudflare-for-startups"
@@ -632,7 +632,7 @@
       "recurring_or_expiry": "12-month credit window; award level set per partner.",
       "other_requirements": "Must have raised $10M or less; matching corporate email; registered DigitalOcean team account. Prioritizes AI-native startups. Service businesses (agencies, consulting) ineligible.",
       "confidence": "high",
-      "last_verified": "2026-08-15T06:02:06.427Z",
+      "last_verified": "2026-09-26T11:58:01.786Z",
       "source_url": "https://www.digitalocean.com/startups",
       "apply_url": "https://www.digitalocean.com/startups",
       "url": "https://startupperks.co/programs/digitalocean-hatch"
@@ -17574,7 +17574,7 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "Corporate income tax credit for eligible business R&D expenditure",
+      "value_text": "Up to 82.5% of the R&D investment",
       "value_usd": null,
       "eligibility": "Incorporated",
       "stages": [
@@ -17590,7 +17590,7 @@
       "recurring_or_expiry": "Annual (per tax year)",
       "other_requirements": "Company subject to Portuguese corporate income tax with certified R&D expenditure.",
       "confidence": "medium",
-      "last_verified": null,
+      "last_verified": "2026-09-25T18:00:56.547Z",
       "source_url": "https://ani.pt/en/sifide-system-of-tax-incentives-for-business-rd/",
       "apply_url": "https://ani.pt/en/sifide-system-of-tax-incentives-for-business-rd/",
       "url": "https://startupperks.co/programs/ani-agencia-nacional-de-inovacao-sifide-tax-incentive-system"
@@ -17755,7 +17755,7 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "Free monthly GPU credits plus startup pricing",
+      "value_text": "Free to get started",
       "value_usd": null,
       "eligibility": "No funding needed",
       "stages": [
@@ -17770,7 +17770,7 @@
       "recurring_or_expiry": "Monthly, while eligible",
       "other_requirements": "",
       "confidence": "medium",
-      "last_verified": null,
+      "last_verified": "2026-09-25T18:00:56.547Z",
       "source_url": "https://lightning.ai/docs/team-management/startups",
       "apply_url": "https://lightning.ai/",
       "url": "https://startupperks.co/programs/lightning-ai-lightning-ai-for-startups"
@@ -17875,7 +17875,7 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "Waived payment fees on up to €1M processed",
+      "value_text": "Up to €1,000,000 in waived fees",
       "value_usd": null,
       "eligibility": "Any startup",
       "stages": [
@@ -17893,7 +17893,7 @@
       "recurring_or_expiry": "Until €1M processed",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-25T18:00:56.547Z",
       "source_url": "https://www.mollie.com/solutions/payments-for-startups",
       "apply_url": "https://www.mollie.com/solutions/payments-for-startups",
       "url": "https://startupperks.co/programs/mollie-mollie-startup-program"
@@ -17909,7 +17909,7 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "Up to 1% cashback on software spend",
+      "value_text": "1% Cashback for the first year",
       "value_usd": null,
       "eligibility": "No funding needed",
       "stages": [
@@ -17925,7 +17925,7 @@
       "recurring_or_expiry": "First year (cashback)",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-26T00:00:26.795Z",
       "source_url": "https://www.cledara.com/pricing",
       "apply_url": "https://www.cledara.com/pricing",
       "url": "https://startupperks.co/programs/cledara-cledara-saas-management-cashback"
@@ -17941,7 +17941,7 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "Free to start, usage-based (0.8% of billing volume)",
+      "value_text": "Billing volume billed at 0.8%",
       "value_usd": null,
       "eligibility": "No funding needed",
       "stages": [
@@ -17953,7 +17953,7 @@
       "recurring_or_expiry": "Ongoing",
       "other_requirements": "",
       "confidence": "medium",
-      "last_verified": null,
+      "last_verified": "2026-09-26T00:00:26.795Z",
       "source_url": "https://metronome.com/pricing",
       "apply_url": "https://metronome.com/pricing",
       "url": "https://startupperks.co/programs/metronome-metronome-startup-plan"
@@ -17997,8 +17997,8 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "Free cap table for up to 25 stakeholders, under $1M raised",
-      "value_usd": null,
+      "value_text": "It costs only $400 to get up and running",
+      "value_usd": 400,
       "eligibility": "Incorporated",
       "stages": [
         "idea",
@@ -18013,7 +18013,7 @@
       "recurring_or_expiry": "While eligible",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-26T00:00:26.795Z",
       "source_url": "https://fidelityprivateshares.com/pricing",
       "apply_url": "https://fidelityprivateshares.com/pricing",
       "url": "https://startupperks.co/programs/fidelity-private-shares-fidelity-private-shares-launch-free"
@@ -18059,8 +18059,8 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "Up to $100K in GPU cloud credits",
-      "value_usd": 100000,
+      "value_text": "Up to $100K (₹1 Crore) in GPU cloud credits",
+      "value_usd": null,
       "eligibility": "Incorporated",
       "stages": [
         "idea",
@@ -18075,7 +18075,7 @@
       "recurring_or_expiry": "1 year",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-26T00:00:40.540Z",
       "source_url": "https://www.e2enetworks.com/startup-program",
       "apply_url": "https://www.e2enetworks.com/startup-program",
       "url": "https://startupperks.co/programs/e2e-networks-e2e-networks-startup-program"
@@ -18091,7 +18091,7 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "Up to $100K in cloud credits",
+      "value_text": "Up to $100,000 in credits, available for up to 24 months",
       "value_usd": 100000,
       "eligibility": "Incorporated",
       "stages": [
@@ -18105,7 +18105,7 @@
       "recurring_or_expiry": "1 year",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-26T00:00:40.540Z",
       "source_url": "https://cloud.ionos.com/startup-program",
       "apply_url": "https://cloud.ionos.com/startup-program",
       "url": "https://startupperks.co/programs/ionos-ionos-cloud-startup-program"
@@ -18121,7 +18121,7 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "100 TB free S3-compatible object storage",
+      "value_text": "100 TB of S3-compatible object storage — free for eligible startups",
       "value_usd": null,
       "eligibility": "Incorporated",
       "stages": [
@@ -18135,7 +18135,7 @@
       "recurring_or_expiry": "While eligible",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-26T00:00:40.540Z",
       "source_url": "https://www.idrive.com/s3-storage-e2/idrive-for-startups",
       "apply_url": "https://www.idrive.com/s3-storage-e2/idrive-for-startups",
       "url": "https://startupperks.co/programs/idrive-inc-idrive-e2-startup-program"
@@ -18211,7 +18211,7 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "$100 free credit for 30 days",
+      "value_text": "Cloud services worth up to $100",
       "value_usd": 100,
       "eligibility": "No funding needed",
       "stages": [
@@ -18226,7 +18226,7 @@
       "recurring_or_expiry": "30 days",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-26T00:00:50.635Z",
       "source_url": "https://www.kamatera.com/free-trial/",
       "apply_url": "https://www.kamatera.com/free-trial/",
       "url": "https://startupperks.co/programs/kamatera-kamatera-free-trial"
@@ -18273,7 +18273,7 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "CHF 300 free cloud credit",
+      "value_text": "CHF 300.- free to be used within 3 months",
       "value_usd": null,
       "eligibility": "No funding needed",
       "stages": [
@@ -18288,7 +18288,7 @@
       "recurring_or_expiry": "One-time",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-26T00:00:50.635Z",
       "source_url": "https://www.infomaniak.com/en/hosting/public-cloud",
       "apply_url": "https://www.infomaniak.com/en/hosting/public-cloud",
       "url": "https://startupperks.co/programs/infomaniak-infomaniak-public-cloud-free-credit"
@@ -18304,7 +18304,7 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "14-day free trial plus signup credit",
+      "value_text": "Start your 14-day FREE trial",
       "value_usd": null,
       "eligibility": "No funding needed",
       "stages": [
@@ -18319,7 +18319,7 @@
       "recurring_or_expiry": "14 days",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-26T06:00:15.967Z",
       "source_url": "https://bunny.net/pricing/",
       "apply_url": "https://dash.bunny.net/register",
       "url": "https://startupperks.co/programs/bunny-net-bunny-net-free-trial"
@@ -18528,8 +18528,8 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "Free tier, no card required",
-      "value_usd": null,
+      "value_text": "Free $0 per month",
+      "value_usd": 0,
       "eligibility": "No funding needed",
       "stages": [
         "idea",
@@ -18543,7 +18543,7 @@
       "recurring_or_expiry": "Ongoing",
       "other_requirements": "",
       "confidence": "medium",
-      "last_verified": null,
+      "last_verified": "2026-09-26T06:00:15.967Z",
       "source_url": "https://zeabur.com/pricing",
       "apply_url": "https://zeabur.com/",
       "url": "https://startupperks.co/programs/zeabur-zeabur-free-plan"
@@ -18652,7 +18652,7 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "Free credits on serverless GPU",
+      "value_text": "Free tier (Hobby plan)",
       "value_usd": null,
       "eligibility": "No funding needed",
       "stages": [
@@ -18667,7 +18667,7 @@
       "recurring_or_expiry": "One-time",
       "other_requirements": "",
       "confidence": "medium",
-      "last_verified": null,
+      "last_verified": "2026-09-26T06:00:29.538Z",
       "source_url": "https://www.cerebrium.ai/pricing",
       "apply_url": "https://dashboard.cerebrium.ai/",
       "url": "https://startupperks.co/programs/cerebrium-cerebrium-free-tier"
@@ -18714,8 +18714,8 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "Free credits on serverless GPU/CPU",
-      "value_usd": null,
+      "value_text": "$0 Per month, plus usage",
+      "value_usd": 0,
       "eligibility": "No funding needed",
       "stages": [
         "idea",
@@ -18729,7 +18729,7 @@
       "recurring_or_expiry": "One-time",
       "other_requirements": "",
       "confidence": "medium",
-      "last_verified": null,
+      "last_verified": "2026-09-26T06:00:38.633Z",
       "source_url": "https://www.beam.cloud/pricing",
       "apply_url": "https://www.beam.cloud/",
       "url": "https://startupperks.co/programs/beam-cloud-beam-free-credits"
@@ -18900,7 +18900,7 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "Free tier for file encoding, plus free for open source",
+      "value_text": "Free forever",
       "value_usd": null,
       "eligibility": "No funding needed",
       "stages": [
@@ -18915,7 +18915,7 @@
       "recurring_or_expiry": "Ongoing",
       "other_requirements": "",
       "confidence": "low",
-      "last_verified": null,
+      "last_verified": "2026-09-26T12:00:17.374Z",
       "source_url": "https://transloadit.com/pricing/",
       "apply_url": "https://transloadit.com/c/signup/",
       "url": "https://startupperks.co/programs/transloadit-transloadit-free-tier"
@@ -18959,7 +18959,7 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "Free trial credit for verification and messaging APIs",
+      "value_text": "Free trial",
       "value_usd": null,
       "eligibility": "No funding needed",
       "stages": [
@@ -18971,8 +18971,8 @@
       "recurring_or_expiry": "One-time trial credit",
       "other_requirements": "",
       "confidence": "low",
-      "last_verified": null,
-      "source_url": "https://www.telesign.com/",
+      "last_verified": "2026-09-26T12:00:17.374Z",
+      "source_url": "https://portal.telesign.com/signup",
       "apply_url": "https://portal.telesign.com/signup",
       "url": "https://startupperks.co/programs/telesign-telesign-free-trial"
     },
@@ -19071,7 +19071,7 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "Free up to 100 users, plus startup program",
+      "value_text": "Free developer plan",
       "value_usd": null,
       "eligibility": "Any startup",
       "stages": [
@@ -19085,7 +19085,7 @@
       "recurring_or_expiry": "While eligible",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-26T12:00:26.389Z",
       "source_url": "https://www.cometchat.com/for-startups",
       "apply_url": "https://www.cometchat.com/for-startups",
       "url": "https://startupperks.co/programs/cometchat-cometchat-for-startups"
@@ -19131,7 +19131,7 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "10,000 free minutes/month, plus startup credits",
+      "value_text": "10,000 FREE minutes every month",
       "value_usd": null,
       "eligibility": "Any startup",
       "stages": [
@@ -19145,8 +19145,8 @@
       "recurring_or_expiry": "Recurring free minutes; credits while eligible",
       "other_requirements": "",
       "confidence": "medium",
-      "last_verified": null,
-      "source_url": "https://www.100ms.live/",
+      "last_verified": "2026-09-26T12:00:37.340Z",
+      "source_url": "https://dashboard.100ms.live/register",
       "apply_url": "https://dashboard.100ms.live/register",
       "url": "https://startupperks.co/programs/100ms-100ms-free-tier-and-startup-credits"
     },
@@ -19191,8 +19191,8 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "$600 in credits (up to $1,800 with VC/referral)",
-      "value_usd": 600,
+      "value_text": "$1,200 extra credits",
+      "value_usd": 1200,
       "eligibility": "Any startup",
       "stages": [
         "pre-seed",
@@ -19205,7 +19205,7 @@
       "recurring_or_expiry": "12 months",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-26T12:00:37.340Z",
       "source_url": "https://fastpix.com/startup-program",
       "apply_url": "https://fastpix.com/startup-program",
       "url": "https://startupperks.co/programs/fastpix-fastpix-startup-program"
@@ -19278,7 +19278,7 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "Free monthly requests, plus startup program",
+      "value_text": "Free monthly transactions",
       "value_usd": null,
       "eligibility": "Any startup",
       "stages": [
@@ -19290,8 +19290,8 @@
       "recurring_or_expiry": "Recurring free tier",
       "other_requirements": "",
       "confidence": "medium",
-      "last_verified": null,
-      "source_url": "https://www.here.com/",
+      "last_verified": "2026-09-26T18:00:16.176Z",
+      "source_url": "https://platform.here.com/sign-up",
       "apply_url": "https://platform.here.com/sign-up",
       "url": "https://startupperks.co/programs/here-technologies-here-freemium-plan-and-here-for-startups"
     },
@@ -19362,9 +19362,9 @@
       "category": "security-legal-hr",
       "category_label": "Security, Legal & HR",
       "benefit_type": "Free plan",
-      "application_status": "unknown",
-      "application_status_source_url": null,
-      "application_status_checked_at": null,
+      "application_status": "closed",
+      "application_status_source_url": "https://sumsub.com/startups/",
+      "application_status_checked_at": "2026-09-26T18:00:16.176Z",
       "value_text": "Free verifications for startups",
       "value_usd": null,
       "eligibility": "Any startup",
@@ -19379,9 +19379,9 @@
       "recurring_or_expiry": "While eligible",
       "other_requirements": "",
       "confidence": "medium",
-      "last_verified": null,
+      "last_verified": "2026-09-26T18:00:16.176Z",
       "source_url": "https://sumsub.com/",
-      "apply_url": "https://sumsub.com/startups/",
+      "apply_url": null,
       "url": "https://startupperks.co/programs/sumsub-sumsub-for-startups"
     },
     {
@@ -19424,7 +19424,7 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "Free trial verification credits",
+      "value_text": "10 Free Credits",
       "value_usd": null,
       "eligibility": "No funding needed",
       "stages": [
@@ -19436,8 +19436,8 @@
       "recurring_or_expiry": "One-time trial credits",
       "other_requirements": "",
       "confidence": "medium",
-      "last_verified": null,
-      "source_url": "https://neverbounce.com/",
+      "last_verified": "2026-09-26T18:00:26.669Z",
+      "source_url": "https://app.neverbounce.com/register",
       "apply_url": "https://app.neverbounce.com/register",
       "url": "https://startupperks.co/programs/neverbounce-neverbounce-free-trial-credits"
     },
@@ -19623,8 +19623,8 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "$300/year in Astra DB credits, free",
-      "value_usd": 300,
+      "value_text": "Free",
+      "value_usd": null,
       "eligibility": "No funding needed",
       "stages": [
         "idea",
@@ -19638,8 +19638,8 @@
       "recurring_or_expiry": "Renews annually while on free tier",
       "other_requirements": "",
       "confidence": "medium",
-      "last_verified": null,
-      "source_url": "https://astra.datastax.com/",
+      "last_verified": "2026-09-26T18:00:35.350Z",
+      "source_url": "https://astra.datastax.com/signup",
       "apply_url": "https://astra.datastax.com/signup",
       "url": "https://startupperks.co/programs/datastax-astra-db-free-tier"
     },
@@ -19654,7 +19654,7 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "Forever-free Standard tier + $400 trial credits",
+      "value_text": "30-day free trial with $400 in credits",
       "value_usd": 400,
       "eligibility": "No funding needed",
       "stages": [
@@ -19669,7 +19669,7 @@
       "recurring_or_expiry": "Free tier ongoing; trial credits 30 days",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-26T18:00:35.350Z",
       "source_url": "https://www.dremio.com/pricing/",
       "apply_url": "https://www.dremio.com/get-started/",
       "url": "https://startupperks.co/programs/dremio-dremio-cloud-free-standard-tier-trial-credits"
@@ -31787,7 +31787,7 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "Up to $5K credits",
+      "value_text": "Up to $5,000 USD in Activate Credits",
       "value_usd": 5000,
       "eligibility": "Any startup",
       "stages": [
@@ -31801,7 +31801,7 @@
       "recurring_or_expiry": "Activate credits are valid up to 2 years from the date of issue; one-time enrollment.",
       "other_requirements": "Pre-Series B and founded within the last 10 years. Requires an AWS account on a paid support plan (not the free tier). Must be new to Activate credits, or requesting more than previously received. Self-funded / bootstrapped (not affiliated with an AWS Activate Provider).",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-26T11:54:15.042Z",
       "source_url": "https://aws.amazon.com/startups/credits",
       "apply_url": "https://aws.amazon.com/startups/join?destination=/credits/apply",
       "url": "https://startupperks.co/programs/aws-activate-founders-package"
@@ -31817,8 +31817,8 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "Up to $100,000 USD AWS Credits",
-      "value_usd": 100000,
+      "value_text": "Up to $200,000 USD in Activate Credits",
+      "value_usd": 200000,
       "eligibility": "VC / accelerator-backed",
       "stages": [
         "pre-seed",
@@ -31831,8 +31831,8 @@
       "recurring_or_expiry": "Activate credits are valid up to 2 years from the date of issue; one-time enrollment.",
       "other_requirements": "Pre-Series B and founded within the last 10 years. Requires an Organization ID from an AWS Activate Provider (your accelerator, angel, or VC must be an Activate Provider). AWS account on a paid support plan. Must be new to Activate credits, or requesting more than previously received.",
       "confidence": "high",
-      "last_verified": "2026-08-15T00:01:17.954Z",
-      "source_url": "https://aws.amazon.com/startups/lp/aws-activate-credits",
+      "last_verified": "2026-09-26T11:54:15.042Z",
+      "source_url": "https://aws.amazon.com/startups/credits",
       "apply_url": "https://aws.amazon.com/startups/join?destination=/credits/apply",
       "url": "https://startupperks.co/programs/aws-activate-portfolio-package"
     }

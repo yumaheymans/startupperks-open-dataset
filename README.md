@@ -10,7 +10,7 @@ an independent index of startup credits, perks, and deals. The website is the
 canonical source and re-verifies programs against their own pages on a running
 cadence; this repository is a periodic snapshot of it, regenerated from the live export with
 [`generate.mjs`](generate.mjs).
-<!--STAMP-->Generated 2026-09-25; newest per-record verification 2026-09-25. Dates vary by record.<!--/STAMP-->
+<!--STAMP-->Generated 2026-09-26; newest per-record verification 2026-09-26. Dates vary by record.<!--/STAMP-->
 
 > **Attribution (required by the licence):** if you use this data, credit **StartupPerks** with a
 > link to <https://startupperks.co>. That is the whole ask.
@@ -36,6 +36,26 @@ cadence; this repository is a periodic snapshot of it, regenerated from the live
 Looking for the ones your startup qualifies for? [Describe your startup](https://startupperks.co/?utm_source=github&utm_medium=readme&utm_campaign=open-dataset) and StartupPerks ranks the programs you can actually get.
 <!--/LISTS-->
 
+## Use it from an AI assistant (MCP)
+
+The same catalog is available to AI assistants through the StartupPerks MCP server: a free, read-only
+remote server with no account or API key, listed in the Official MCP Registry as
+`co.startupperks/startup-perks`.
+
+```
+https://startupperks.co/mcp
+```
+
+Your assistant can rank the programs a startup qualifies for (`find_startup_perks`), search by provider
+or topic (`search_startup_perks`) and read one program's full terms (`get_startup_perk`), with every
+answer linked to its source. Setup for Claude, ChatGPT, Cursor and VS Code:
+[startupperks.co/mcp-server](https://startupperks.co/mcp-server?utm_source=github&utm_medium=readme&utm_campaign=open-dataset).
+In Claude Code:
+
+```bash
+claude mcp add --transport http startupperks https://startupperks.co/mcp
+```
+
 <!--CATALOG-->
 ## What is in the dataset
 
@@ -44,7 +64,7 @@ Each record carries the provider, benefit type, stated value, eligibility, geogr
 confidence and source URL. Values are advertised terms, not guaranteed awards or additive savings.
 
 - **Benefit types:** Discount: 182, Credits: 280, Free plan: 543, Cash & rewards: 30, Program: 23.
-- **Positive USD values:** 176 programs; median $9,500 and maximum $500,000.
+- **Positive USD values:** 175 programs; median $9,000 and maximum $500,000.
 - **Confidence:** 584 records carry the catalog's high-confidence classification; check each record's source and verification date before relying on current terms.
 
 ## Files

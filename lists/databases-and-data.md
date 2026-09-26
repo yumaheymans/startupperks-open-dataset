@@ -2,7 +2,7 @@
 
 69 startup programs for databases and data: warehouses, managed databases, data pipelines and BI. Each program links to the provider's own page, where its terms are published. **Details** opens the program's StartupPerks page with eligibility, verification notes and similar programs.
 
-Generated 2026-09-25 from the [StartupPerks open dataset](../README.md). 22 of these 69 programs were re-checked against the provider's page in the 30 days before that date; terms change, so confirm on the provider's page before you apply.
+Generated 2026-09-26 from the [StartupPerks open dataset](../README.md). 24 of these 69 programs were re-checked against the provider's page in the 30 days before that date; terms change, so confirm on the provider's page before you apply.
 
 **Jump to:** [Credits](#credits) (37) · [Discounts](#discounts) (9) · [Programs](#programs) (2) · [Free plans](#free-plans) (21)
 
@@ -35,13 +35,13 @@ Programs with a comparable US dollar figure come first, largest first; the rest 
 | [Tiger Cloud Startup Credits](https://www.tigerdata.com/pricing) | Up to $1K credits | Any startup; idea to seed | Global | [Details](https://startupperks.co/programs/tiger-cloud-startup-credits?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Upstash for Open Source](https://upstash.com/open-source) | Up to $1,000/month credit grant (covers Upstash usage for open-source projects) | No funding required | Global | [Details](https://startupperks.co/programs/upstash-upstash-for-open-source?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Aerospike Cloud for Startups](https://aerospike.com/get/cloud-for-startups/) | $300 in credits | Any startup; idea to seed | Global | [Details](https://startupperks.co/programs/aerospike-aerospike-cloud-for-startups?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
-| [DataStax: Astra DB Free Tier](https://astra.datastax.com/) | $300/year in Astra DB credits, free | No funding required | Global | [Details](https://startupperks.co/programs/datastax-astra-db-free-tier?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Cancer Genomics Cloud: CGC Free Cloud Credits](https://www.cancergenomicscloud.org/) | $300 free cloud credits for new users | No funding required | Global | [Details](https://startupperks.co/programs/cancer-genomics-cloud-cgc-free-cloud-credits?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Databend Cloud Free Credits + Open Source](https://www.databend.com/pricing/) | $200 free cloud credits + free open source | No funding required | Global | [Details](https://startupperks.co/programs/databend-databend-cloud-free-credits-open-source?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Databento Free Credits](https://databento.com/pricing) | $125 in free market-data credits | No funding required | Global | [Details](https://startupperks.co/programs/databento-databento-free-credits?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Goldsky Free Credits](https://goldsky.com/pricing) | $100 free credits + free tier | No funding required | Global | [Details](https://startupperks.co/programs/goldsky-goldsky-free-credits?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [LanceDB Cloud Free Credits](https://lancedb.com/) | $100 free credits on LanceDB Cloud | No funding required; idea to seed | Global | [Details](https://startupperks.co/programs/lancedb-lancedb-cloud-free-credits?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Appwrite Startups](https://appwrite.io/startups) | Appwrite Cloud Pro for 12 months | Any startup; pre-seed to Series A; under 10 years old | Global | [Details](https://startupperks.co/programs/appwrite-startups?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
+| [DataStax: Astra DB Free Tier](https://astra.datastax.com/signup) | Free | No funding required | Global | [Details](https://startupperks.co/programs/datastax-astra-db-free-tier?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [CockroachDB for Startups](https://www.cockroachlabs.com/solutions/verticals/startups/) | Credits | Any startup; seed to Series B+ | Global | [Details](https://startupperks.co/programs/cockroachdb-for-startups?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Confluent for Startups](https://www.confluent.io/startups/) | Up to One Year of Confluent Cloud | Any startup; under 5 years old | Global | [Details](https://startupperks.co/programs/confluent-for-startups?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Explorium for Startups](https://www.explorium.ai/pricing/) | Free trial credits + startup plan | Any startup | Global | [Details](https://startupperks.co/programs/explorium-explorium-for-startups?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
@@ -83,7 +83,7 @@ Programs with a comparable US dollar figure come first, largest first; the rest 
 
 | Program | Stated value | Who qualifies | Region | More |
 |---------|--------------|---------------|--------|------|
-| [Dremio Cloud Free (Standard tier + trial credits)](https://www.dremio.com/pricing/) | Forever-free Standard tier + $400 trial credits | No funding required | Global | [Details](https://startupperks.co/programs/dremio-dremio-cloud-free-standard-tier-trial-credits?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
+| [Dremio Cloud Free (Standard tier + trial credits)](https://www.dremio.com/pricing/) | 30-day free trial with $400 in credits | No funding required | Global | [Details](https://startupperks.co/programs/dremio-dremio-cloud-free-standard-tier-trial-credits?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Bruin Open Source + Cloud Free](https://getbruin.com/) | Free open-source CLI + $100 cloud credits | No funding required | Global | [Details](https://startupperks.co/programs/bruin-bruin-open-source-cloud-free?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Coiled Free](https://www.coiled.io/pricing) | $25 in usage credits every month | No funding required | Global | [Details](https://startupperks.co/programs/coiled-coiled-free?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [BatchData Free Credits](https://developer.batchdata.com/) | Free credits on signup | No funding required; idea to seed | United States | [Details](https://startupperks.co/programs/batchdata-batchdata-free-credits?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |

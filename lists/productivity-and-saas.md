@@ -2,7 +2,7 @@
 
 102 startup programs for productivity and SaaS: content management, project management, collaboration, no-code, automation and e-signature. Each program links to the provider's own page, where its terms are published. **Details** opens the program's StartupPerks page with eligibility, verification notes and similar programs.
 
-Generated 2026-09-25 from the [StartupPerks open dataset](../README.md). 47 of these 102 programs were re-checked against the provider's page in the 30 days before that date; terms change, so confirm on the provider's page before you apply.
+Generated 2026-09-26 from the [StartupPerks open dataset](../README.md). 47 of these 102 programs were re-checked against the provider's page in the 30 days before that date; terms change, so confirm on the provider's page before you apply.
 
 **Jump to:** [Credits](#credits) (7) · [Discounts](#discounts) (26) · [Programs](#programs) (2) · [Cash and rewards](#cash-and-rewards) (3) · [Free plans](#free-plans) (64)
 

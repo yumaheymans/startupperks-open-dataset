@@ -2,7 +2,7 @@
 
 118 startup programs for AI and ML products: LLM and inference APIs, AI and GPU clouds, speech and voice AI, and generative media platforms. Each program links to the provider's own page, where its terms are published. **Details** opens the program's StartupPerks page with eligibility, verification notes and similar programs.
 
-Generated 2026-09-25 from the [StartupPerks open dataset](../README.md). 30 of these 118 programs were re-checked against the provider's page in the 30 days before that date; terms change, so confirm on the provider's page before you apply.
+Generated 2026-09-26 from the [StartupPerks open dataset](../README.md). 31 of these 118 programs were re-checked against the provider's page in the 30 days before that date; terms change, so confirm on the provider's page before you apply.
 
 **Jump to:** [Credits](#credits) (82) · [Discounts](#discounts) (9) · [Programs](#programs) (2) · [Free plans](#free-plans) (25)
 
@@ -66,7 +66,7 @@ Programs with a comparable US dollar figure come first, largest first; the rest 
 | [Higgsfield Free Credits](https://higgsfield.ai/) | Free daily credits | No funding required | Global | [Details](https://startupperks.co/programs/higgsfield-higgsfield-free-credits?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Hotpot Free Credits](https://hotpot.ai/) | Free credits for AI art and editing | No funding required | Global | [Details](https://startupperks.co/programs/hotpot-ai-hotpot-free-credits?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Landing AI Explore Plan](https://landing.ai/pricing) | 1,000 free credits | No funding required; idea to seed | Global | [Details](https://startupperks.co/programs/landing-ai-landing-ai-explore-plan?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
-| [Lightning AI for Startups](https://lightning.ai/docs/team-management/startups) | Free monthly GPU credits plus startup pricing | No funding required; idea to Series A | Global | [Details](https://startupperks.co/programs/lightning-ai-lightning-ai-for-startups?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
+| [Lightning AI for Startups](https://lightning.ai/docs/team-management/startups) | Free to get started | No funding required; idea to Series A | Global | [Details](https://startupperks.co/programs/lightning-ai-lightning-ai-for-startups?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [LMNT Startup Grants](https://www.lmnt.com/startups) | 45M free characters (3 months) | Any startup; idea to seed | Global | [Details](https://startupperks.co/programs/lmnt-startup-grants?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [ModelsLab Free Credits](https://modelslab.com/) | Free API credits | No funding required | Global | [Details](https://startupperks.co/programs/modelslab-modelslab-free-credits?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Move AI Free Credits](https://move.ai/) | Free trial mocap credits | No funding required | Global | [Details](https://startupperks.co/programs/move-ai-move-ai-free-credits?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |

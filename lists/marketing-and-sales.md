@@ -2,7 +2,7 @@
 
 84 startup programs for marketing and sales: CRM, product analytics, messaging and communications APIs, email and sales tools. Each program links to the provider's own page, where its terms are published. **Details** opens the program's StartupPerks page with eligibility, verification notes and similar programs.
 
-Generated 2026-09-25 from the [StartupPerks open dataset](../README.md). 25 of these 84 programs were re-checked against the provider's page in the 30 days before that date; terms change, so confirm on the provider's page before you apply.
+Generated 2026-09-26 from the [StartupPerks open dataset](../README.md). 25 of these 84 programs were re-checked against the provider's page in the 30 days before that date; terms change, so confirm on the provider's page before you apply.
 
 **Jump to:** [Credits](#credits) (9) · [Discounts](#discounts) (31) · [Programs](#programs) (1) · [Cash and rewards](#cash-and-rewards) (2) · [Free plans](#free-plans) (41)
 
