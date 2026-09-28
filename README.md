@@ -10,7 +10,7 @@ an independent index of startup credits, perks, and deals. The website is the
 canonical source and re-verifies programs against their own pages on a running
 cadence; this repository is a periodic snapshot of it, regenerated from the live export with
 [`generate.mjs`](generate.mjs).
-<!--STAMP-->Generated 2026-09-26; newest per-record verification 2026-09-26. Dates vary by record.<!--/STAMP-->
+<!--STAMP-->Generated 2026-09-28; newest per-record verification 2026-09-28. Dates vary by record.<!--/STAMP-->
 
 > **Attribution (required by the licence):** if you use this data, credit **StartupPerks** with a
 > link to <https://startupperks.co>. That is the whole ask.
@@ -18,20 +18,20 @@ cadence; this repository is a periodic snapshot of it, regenerated from the live
 <!--LISTS-->
 ## Browse the lists
 
-1,058 programs, one Markdown list per category plus cross-category lists, each program linked to the provider's own page:
+1,040 programs, one Markdown list per category plus cross-category lists, each program linked to the provider's own page:
 
 | List | Programs | Largest stated values include |
 |------|---------:|-------------------------------|
-| [AI Startup Credits and Perks](lists/ai-and-ml.md) | 118 | Nebius, Anthropic, Daytona |
-| [Cloud Credits for Startups](lists/cloud-and-infrastructure.md) | 123 | Denvr Dataworks, Cloudflare, Google Cloud |
-| [Developer Tool Perks for Startups](lists/developer-tools.md) | 177 | Datadog, Grafana Labs, Kong |
-| [Database and Data Platform Credits for Startups](lists/databases-and-data.md) | 69 | Snowflake, Databricks, Aiven |
-| [Startup Banking and Fintech Perks](lists/banking-and-fintech.md) | 108 | Stripe |
-| [Finance and Operations Perks for Startups](lists/finance-and-ops.md) | 92 | Fondo, RevenueCat, doola |
+| [AI Startup Credits and Perks](lists/ai-and-ml.md) | 113 | Nebius, Anthropic, Daytona |
+| [Cloud Credits for Startups](lists/cloud-and-infrastructure.md) | 121 | Denvr Dataworks, Cloudflare, Google Cloud |
+| [Developer Tool Perks for Startups](lists/developer-tools.md) | 174 | Datadog, Grafana Labs, Kong |
+| [Database and Data Platform Credits for Startups](lists/databases-and-data.md) | 65 | Databricks, Aiven, Neon (Databricks) |
+| [Startup Banking and Fintech Perks](lists/banking-and-fintech.md) | 107 | Stripe |
+| [Finance and Operations Perks for Startups](lists/finance-and-ops.md) | 91 | RevenueCat, doola, Pilot |
 | [Marketing and Sales Tools for Startups](lists/marketing-and-sales.md) | 84 | Vonage, Infobip, Netcore Cloud |
-| [Productivity and SaaS Deals for Startups](lists/productivity-and-saas.md) | 102 | Sanity, Grain, Bubble |
-| [Security, Compliance, Legal and HR Perks for Startups](lists/security-legal-and-hr.md) | 185 | ComplyCube, Drata, LowerPlane |
-| [Startup credits you can get without VC funding](lists/no-vc-funding-required.md) | 244 | Denvr Dataworks, Cloudflare, Google Cloud |
+| [Productivity and SaaS Deals for Startups](lists/productivity-and-saas.md) | 102 | Notion, Sanity, Grain |
+| [Security, Compliance, Legal and HR Perks for Startups](lists/security-legal-and-hr.md) | 183 | ComplyCube, Drata, LowerPlane |
+| [Startup credits you can get without VC funding](lists/no-vc-funding-required.md) | 239 | Denvr Dataworks, Cloudflare, Google Cloud |
 
 Looking for the ones your startup qualifies for? [Describe your startup](https://startupperks.co/?utm_source=github&utm_medium=readme&utm_campaign=open-dataset) and StartupPerks ranks the programs you can actually get.
 <!--/LISTS-->
@@ -59,20 +59,20 @@ claude mcp add --transport http startupperks https://startupperks.co/mcp
 <!--CATALOG-->
 ## What is in the dataset
 
-**1,058 program records from 1,048 providers**, across 9 categories.
+**1,040 program records from 1,030 providers**, across 9 categories.
 Each record carries the provider, benefit type, stated value, eligibility, geography,
 confidence and source URL. Values are advertised terms, not guaranteed awards or additive savings.
 
-- **Benefit types:** Discount: 182, Credits: 280, Free plan: 543, Cash & rewards: 30, Program: 23.
-- **Positive USD values:** 175 programs; median $9,000 and maximum $500,000.
-- **Confidence:** 584 records carry the catalog's high-confidence classification; check each record's source and verification date before relying on current terms.
+- **Benefit types:** Discount: 179, Credits: 272, Free plan: 537, Cash & rewards: 30, Program: 22.
+- **Positive USD values:** 174 programs; median $8,596 and maximum $500,000.
+- **Confidence:** 578 records carry the catalog's high-confidence classification; check each record's source and verification date before relying on current terms.
 
 ## Files
 
 | File | Rows | Format |
 |------|------|--------|
-| data/startupperks-dataset.json | 1,058 | JSON with metadata, field definitions and records |
-| data/startupperks-dataset.csv | 1,058 | CSV, one row per program |
+| data/startupperks-dataset.json | 1,040 | JSON with metadata, field definitions and records |
+| data/startupperks-dataset.csv | 1,040 | CSV, one row per program |
 | lists/*.md | 10 lists | Markdown tables for reading, generated from the same records |
 
 See [DATA_DICTIONARY.md](DATA_DICTIONARY.md) for every field.
@@ -81,15 +81,15 @@ See [DATA_DICTIONARY.md](DATA_DICTIONARY.md) for every field.
 
 | Category | Programs |
 |----------|---------:|
-| Security, Legal & HR | 185 |
-| Developer Tools | 177 |
-| Cloud & Infrastructure | 123 |
-| AI & ML | 118 |
-| Banking & Fintech | 108 |
+| Security, Legal & HR | 183 |
+| Developer Tools | 174 |
+| Cloud & Infrastructure | 121 |
+| AI & ML | 113 |
+| Banking & Fintech | 107 |
 | Productivity & SaaS | 102 |
-| Finance & Ops | 92 |
+| Finance & Ops | 91 |
 | Marketing & Sales | 84 |
-| Databases & Data | 69 |
+| Databases & Data | 65 |
 <!--/CATALOG-->
 
 On the website: [all programs](https://startupperks.co/programs?utm_source=github&utm_medium=readme&utm_campaign=open-dataset)

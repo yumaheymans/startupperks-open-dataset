@@ -1,10 +1,10 @@
 # Startup Banking and Fintech Perks: Business Accounts, Cards and Payments (2026)
 
-108 startup programs for banking and fintech: business accounts, corporate cards, payments and treasury. Each program links to the provider's own page, where its terms are published. **Details** opens the program's StartupPerks page with eligibility, verification notes and similar programs.
+107 startup programs for banking and fintech: business accounts, corporate cards, payments and treasury. Each program links to the provider's own page, where its terms are published. **Details** opens the program's StartupPerks page with eligibility, verification notes and similar programs.
 
-Generated 2026-09-26 from the [StartupPerks open dataset](../README.md). 25 of these 108 programs were re-checked against the provider's page in the 30 days before that date; terms change, so confirm on the provider's page before you apply.
+Generated 2026-09-28 from the [StartupPerks open dataset](../README.md). 26 of these 107 programs were re-checked against the provider's page in the 30 days before that date; terms change, so confirm on the provider's page before you apply.
 
-**Jump to:** [Credits](#credits) (3) · [Discounts](#discounts) (4) · [Programs](#programs) (5) · [Cash and rewards](#cash-and-rewards) (23) · [Free plans](#free-plans) (73)
+**Jump to:** [Credits](#credits) (3) · [Discounts](#discounts) (4) · [Programs](#programs) (5) · [Cash and rewards](#cash-and-rewards) (23) · [Free plans](#free-plans) (72)
 
 > Want only the programs your startup qualifies for? [Describe your startup on StartupPerks](https://startupperks.co/?utm_source=github&utm_medium=list&utm_campaign=open-dataset) and it ranks the ones you can actually get.
 
@@ -111,7 +111,6 @@ Programs with a comparable US dollar figure come first, largest first; the rest 
 | [Lili Core (Free Business Checking)](https://lili.co/) | Free checking + savings at 2.25% APY on the first $500,000 | Any startup | United States | [Details](https://startupperks.co/programs/lili-business-checking?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [MariBank: Mari Business Account](https://www.maribank.sg/) | Digital business account for Singapore SMEs | No funding required | Singapore | [Details](https://startupperks.co/programs/maribank-mari-business-account?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Market Data Free Forever](https://www.marketdata.app/) | Free Forever tier (100 requests/day) | No funding required; idea to seed | Global | [Details](https://startupperks.co/programs/market-data-market-data-free-forever?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
-| [Mendel Corporate Cards](https://mendel.com) | Corporate cards and spend control | Incorporated companies | Mexico, Latin America | [Details](https://startupperks.co/programs/mendel-mendel-corporate-cards?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Mercury (startup banking + Perks marketplace)](https://mercury.com/perks) | Free business banking + partner perks marketplace | No funding required | United States | [Details](https://startupperks.co/programs/mercury-startup-banking-perks-marketplace?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Mesh Pro (free plan)](https://www.meshpayments.com/pricing) | No cost for up to 3 users | No funding required | United States | [Details](https://startupperks.co/programs/mesh-payments-mesh-pro-free-plan?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Mettle Business Account](https://www.mettle.co.uk/) | Free business bank account for sole traders and small limited companies (NatWest-backed), with FreeAgent and tax tools | No funding required | United Kingdom | [Details](https://startupperks.co/programs/mettle-by-natwest-mettle-business-account?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
