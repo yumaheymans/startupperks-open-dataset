@@ -2,7 +2,7 @@
 
 84 startup programs for marketing and sales: CRM, product analytics, messaging and communications APIs, email and sales tools. Each program links to the provider's own page, where its terms are published. **Details** opens the program's StartupPerks page with eligibility, verification notes and similar programs.
 
-Generated 2026-09-28 from the [StartupPerks open dataset](../README.md). 34 of these 84 programs were re-checked against the provider's page in the 30 days before that date; terms change, so confirm on the provider's page before you apply.
+Generated 2026-09-28 from the [StartupPerks open dataset](../README.md). 33 of these 84 programs were re-checked against the provider's page in the 30 days before that date; terms change, so confirm on the provider's page before you apply.
 
 **Jump to:** [Credits](#credits) (9) · [Discounts](#discounts) (31) · [Programs](#programs) (1) · [Cash and rewards](#cash-and-rewards) (2) · [Free plans](#free-plans) (41)
 
@@ -15,7 +15,7 @@ Programs with a comparable US dollar figure come first, largest first; the rest 
 | Program | Stated value | Who qualifies | Region | More |
 |---------|--------------|---------------|--------|------|
 | [Vonage for Startups](https://developer.vonage.com/startups) | Up to $75,000 in Vonage API credits | Any startup; pre-seed to Series A | Global | [Details](https://startupperks.co/programs/vonage-vonage-for-startups?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
-| [Infobip Startup Tribe](https://www.infobip.com/startups) | Up to $60,000 in credits | No funding required; idea to Series A | Global | [Details](https://startupperks.co/programs/infobip-infobip-startup-tribe?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
+| [Infobip Startup Tribe](https://startups.infobip.com/) | Up to $60,000 in Infobip product credits + support and community perks | No funding required; idea to Series A | Global | [Details](https://startupperks.co/programs/infobip-infobip-startup-tribe?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Netcore Startup Program](https://netcore.ai/startup-program/) | Up to $30,000 in platform credits | Any startup; pre-seed to Series A | Global | [Details](https://startupperks.co/programs/netcore-cloud-netcore-startup-program?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Telnyx Startups Program](https://telnyx.com/startups-program) | Up to $20k in FREE credits | Any startup; pre-seed to seed | Global | [Details](https://startupperks.co/programs/telnyx-telnyx-startups-program?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [SendPulse Startup Grant](https://sendpulse.com/startup) | $5,000 grant credited to SendPulse balance | Any startup; idea to seed | Global | [Details](https://startupperks.co/programs/sendpulse-sendpulse-startup-grant?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |

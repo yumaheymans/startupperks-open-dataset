@@ -2,7 +2,7 @@
 
 113 startup programs for AI and ML products: LLM and inference APIs, AI and GPU clouds, speech and voice AI, and generative media platforms. Each program links to the provider's own page, where its terms are published. **Details** opens the program's StartupPerks page with eligibility, verification notes and similar programs.
 
-Generated 2026-09-28 from the [StartupPerks open dataset](../README.md). 35 of these 113 programs were re-checked against the provider's page in the 30 days before that date; terms change, so confirm on the provider's page before you apply.
+Generated 2026-09-28 from the [StartupPerks open dataset](../README.md). 40 of these 113 programs were re-checked against the provider's page in the 30 days before that date; terms change, so confirm on the provider's page before you apply.
 
 **Jump to:** [Credits](#credits) (78) · [Discounts](#discounts) (8) · [Programs](#programs) (2) · [Free plans](#free-plans) (25)
 
@@ -91,7 +91,7 @@ Programs with a comparable US dollar figure come first, largest first; the rest 
 | [Vmake Free Credits](https://vmake.ai/) | Free credits | No funding required | Global | [Details](https://startupperks.co/programs/vmake-vmake-free-credits?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Vogent Free Credits](https://vogent.ai/) | Free credits for AI phone calls | No funding required | Global | [Details](https://startupperks.co/programs/vogent-vogent-free-credits?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Vozo Free Credits](https://vozo.ai/) | Free credits for AI video editing | No funding required | Global | [Details](https://startupperks.co/programs/vozo-vozo-free-credits?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
-| [Z.ai Startups Program](https://startup.z.ai/) | AI API credits for startups | Any startup; pre-seed to Series A | Global | [Details](https://startupperks.co/programs/z-ai-z-ai-startups-program?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
+| [Z.ai Startups Program](https://startup.z.ai/) | Free API credits, up to 1B tokens | Any startup; pre-seed to Series A | Global | [Details](https://startupperks.co/programs/z-ai-z-ai-startups-program?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 
 ## Discounts
 
@@ -125,8 +125,8 @@ Programs with a comparable US dollar figure come first, largest first; the rest 
 |---------|--------------|---------------|--------|------|
 | [Manus for Startups](https://manus.im/startups) (applications paused) | 6 months of Manus Team (up to 20 seats, valued at $4,800) | VC- or accelerator-backed; pre-seed to Series A; under 5 years old; raised under $50M | Global | [Details](https://startupperks.co/programs/manus-manus-for-startups?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Mem0 Startup Program](https://mem0.ai/startup-program) | $1000 of Value, Free for 3 Months | No funding required; idea to seed | Global | [Details](https://startupperks.co/programs/mem0-mem0-startup-program?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
-| [Roboflow for Startups](https://startups.roboflow.com/) | 1 free year of Core Plan ($948) + platform credits | Accelerator-backed; pre-seed to seed; raised under $5M | Global | [Details](https://startupperks.co/programs/roboflow-roboflow-for-startups?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
-| [Ultralytics Platform Free Plan](https://www.ultralytics.com/pricing) | Free plan + $25 one-time credits | No funding required; idea to seed | Global | [Details](https://startupperks.co/programs/ultralytics-ultralytics-platform-free-plan?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
+| [Roboflow for Startups](https://startups.roboflow.com/) | 1 Free Year on Core Plan ($948 value) | Accelerator-backed; pre-seed to seed; raised under $5M | Global | [Details](https://startupperks.co/programs/roboflow-roboflow-for-startups?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
+| [Ultralytics Platform Free Plan](https://www.ultralytics.com/pricing) | $25 one-time credits | No funding required; idea to seed | Global | [Details](https://startupperks.co/programs/ultralytics-ultralytics-platform-free-plan?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Bland Start Plan](https://www.bland.ai/pricing) | 2 credits + an inbound number ($15/mo value) | No funding required; idea to seed | Global | [Details](https://startupperks.co/programs/bland-ai-bland-start-plan?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [HeyGen Founders Program](https://www.heygen.com/founders-program) | $0, Free for selected founders | Any startup; idea to seed | Global | [Details](https://startupperks.co/programs/heygen-heygen-founders-program?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Agenta Hobby (Free) + Startup Access](https://agenta.ai/pricing) | 5,000 agent runs/month + startup discount | No funding required; idea to seed | Global | [Details](https://startupperks.co/programs/agenta-agenta-hobby-free-startup-access?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
@@ -140,14 +140,14 @@ Programs with a comparable US dollar figure come first, largest first; the rest 
 | [Graphlit Free Tier](https://www.graphlit.com/pricing) | Free tier with usage-based credits | No funding required; idea to seed | Global | [Details](https://startupperks.co/programs/graphlit-graphlit-free-tier?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [HoneyHive Developer Plan + Startup Discount](https://www.honeyhive.ai/pricing) | 10K events/month free + startup discount | No funding required; idea to Series A | Global | [Details](https://startupperks.co/programs/honeyhive-honeyhive-developer-plan-startup-discount?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Masterpiece X Free](https://masterpiecex.com/) | Free 3D generation credits | No funding required | Global | [Details](https://startupperks.co/programs/masterpiece-x-masterpiece-x-free?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
-| [Photoroom API Startup Plan](https://www.photoroom.com/api/startup-plan) | 60,000 free images for startups | Incorporated companies; pre-seed to Series A | Global | [Details](https://startupperks.co/programs/photoroom-photoroom-api-startup-plan?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
+| [Photoroom API Startup Plan](https://www.photoroom.com/api/startup-plan) | 60,000 free Basic images (or the equivalent of 12,000 Plus images) | Incorporated companies; pre-seed to Series A | Global | [Details](https://startupperks.co/programs/photoroom-photoroom-api-startup-plan?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [SeaArt Free](https://seaart.ai/) | 150 free daily credits | No funding required | Global | [Details](https://startupperks.co/programs/seaart-seaart-free?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Stability AI Community License](https://stability.ai/license) | Free commercial use under $1M revenue | No funding required; idea to Series A | Global | [Details](https://startupperks.co/programs/stability-ai-stability-ai-community-license?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Tamarind Bio Free Credits](https://www.tamarind.bio/) | Free credits to start | No funding required; idea to seed | Global | [Details](https://startupperks.co/programs/tamarind-bio-tamarind-bio-free-credits?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Tavily Free Plan](https://tavily.com/pricing) | 1,000 API credits per month | No funding required; idea to seed | Global | [Details](https://startupperks.co/programs/tavily-tavily-free-plan?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Twelve Labs Free Plan](https://www.twelvelabs.io/) | Free video indexing + 10 free hours | No funding required; idea to Series A | Global | [Details](https://startupperks.co/programs/twelve-labs-twelve-labs-free-plan?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [xAI (Grok) API Free Credits](https://x.ai/) | Free monthly Grok API credits | No funding required | Global | [Details](https://startupperks.co/programs/xai-xai-grok-api-free-credits?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
-| [Ximilar Free Plan](https://www.ximilar.com/pricing/) | 1,000 free API credits per month | No funding required; idea to seed | Global | [Details](https://startupperks.co/programs/ximilar-ximilar-free-plan?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
+| [Ximilar Free Plan](https://www.ximilar.com/pricing/) | €0 forever | No funding required; idea to seed | Global | [Details](https://startupperks.co/programs/ximilar-ximilar-free-plan?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 
 ---
 

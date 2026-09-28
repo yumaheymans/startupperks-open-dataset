@@ -16,8 +16,8 @@
     "startup discounts",
     "founder benefits"
   ],
-  "generated_at": "2026-09-28T08:28:59.534Z",
-  "last_verified": "2026-09-28T08:27:14.595Z",
+  "generated_at": "2026-09-28T14:35:47.288Z",
+  "last_verified": "2026-09-28T12:00:44.236Z",
   "record_count": 1040,
   "fields": [
     {
@@ -6321,7 +6321,7 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "Up to $60,000 in credits",
+      "value_text": "Up to $60,000 in Infobip product credits + support and community perks",
       "value_usd": 60000,
       "eligibility": "No funding needed",
       "stages": [
@@ -6336,8 +6336,8 @@
       "recurring_or_expiry": "Ongoing program",
       "other_requirements": "Open to startups regardless of location, industry, or funding backing.",
       "confidence": "high",
-      "last_verified": "2026-09-09T00:00:43.645Z",
-      "source_url": "https://www.infobip.com/startups",
+      "last_verified": null,
+      "source_url": "https://startups.infobip.com/",
       "apply_url": "https://startups.infobip.com/",
       "url": "https://startupperks.co/programs/infobip-infobip-startup-tribe"
     },
@@ -7271,8 +7271,8 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "Free forever · Unlimited users",
-      "value_usd": 0,
+      "value_text": "Free forever, unlimited users",
+      "value_usd": null,
       "eligibility": "No funding needed",
       "stages": [
         "idea",
@@ -7285,8 +7285,8 @@
       "recurring_or_expiry": "Ongoing free tier",
       "other_requirements": "Premium add-ons (advanced payroll/reporting) are paid.",
       "confidence": "high",
-      "last_verified": "2026-09-09T18:00:49.096Z",
-      "source_url": "https://www.jibble.io/pricing",
+      "last_verified": null,
+      "source_url": "https://www.jibble.io/",
       "apply_url": "https://web.jibble.io/signup",
       "url": "https://startupperks.co/programs/jibble-jibble-free-time-attendance-tracking"
     },
@@ -8586,7 +8586,7 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "1 free year of Core Plan ($948) + platform credits",
+      "value_text": "1 Free Year on Core Plan ($948 value)",
       "value_usd": 948,
       "eligibility": "Accelerator-backed",
       "stages": [
@@ -8599,7 +8599,7 @@
       "recurring_or_expiry": "12 months",
       "other_requirements": "Must have raised less than $5M, be a new Roboflow customer, and be a current or alumni member of a partner startup program/accelerator (Google Cloud for Startups, Y Combinator, Sequoia Arc, and others).",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-28T12:00:14.653Z",
       "source_url": "https://startups.roboflow.com/",
       "apply_url": "https://startups.roboflow.com/",
       "url": "https://startupperks.co/programs/roboflow-roboflow-for-startups"
@@ -10651,10 +10651,10 @@
       "category": "ai-ml",
       "category_label": "AI & ML",
       "benefit_type": "Credits",
-      "application_status": "unknown",
-      "application_status_source_url": null,
-      "application_status_checked_at": null,
-      "value_text": "AI API credits for startups",
+      "application_status": "open",
+      "application_status_source_url": "https://startup.z.ai/",
+      "application_status_checked_at": "2026-09-28T12:00:14.653Z",
+      "value_text": "Free API credits — up to 1B tokens",
       "value_usd": null,
       "eligibility": "Any startup",
       "stages": [
@@ -10668,7 +10668,7 @@
       "recurring_or_expiry": "Ongoing",
       "other_requirements": "",
       "confidence": "medium",
-      "last_verified": null,
+      "last_verified": "2026-09-28T12:00:14.653Z",
       "source_url": "https://startup.z.ai/",
       "apply_url": "https://startup.z.ai/",
       "url": "https://startupperks.co/programs/z-ai-z-ai-startups-program"
@@ -13079,7 +13079,7 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "$2,000 in Youverify OS credits (verify up to 10,000 users at no cost)",
+      "value_text": "$2,000 YV OS Credits",
       "value_usd": 2000,
       "eligibility": "Any startup",
       "stages": [
@@ -13093,7 +13093,7 @@
       "recurring_or_expiry": "",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-28T12:00:32.236Z",
       "source_url": "https://startup.youverify.co/",
       "apply_url": "https://startup.youverify.co/",
       "url": "https://startupperks.co/programs/youverify-yv-startup-program"
@@ -21840,7 +21840,7 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "1,000 free API credits per month",
+      "value_text": "€0 forever",
       "value_usd": null,
       "eligibility": "No funding needed",
       "stages": [
@@ -21854,7 +21854,7 @@
       "recurring_or_expiry": "While eligible",
       "other_requirements": "",
       "confidence": "medium",
-      "last_verified": null,
+      "last_verified": "2026-09-28T12:00:44.236Z",
       "source_url": "https://www.ximilar.com/pricing/",
       "apply_url": "https://www.ximilar.com/",
       "url": "https://startupperks.co/programs/ximilar-ximilar-free-plan"
@@ -21870,7 +21870,7 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "Free plan + $25 one-time credits",
+      "value_text": "$25 one-time credits",
       "value_usd": 25,
       "eligibility": "No funding needed",
       "stages": [
@@ -21884,7 +21884,7 @@
       "recurring_or_expiry": "While eligible",
       "other_requirements": "",
       "confidence": "medium",
-      "last_verified": null,
+      "last_verified": "2026-09-28T12:00:44.236Z",
       "source_url": "https://www.ultralytics.com/pricing",
       "apply_url": "https://www.ultralytics.com/",
       "url": "https://startupperks.co/programs/ultralytics-ultralytics-platform-free-plan"
@@ -21930,7 +21930,7 @@
       "application_status": "unknown",
       "application_status_source_url": null,
       "application_status_checked_at": null,
-      "value_text": "60,000 free images for startups",
+      "value_text": "60,000 free Basic images (or the equivalent of 12,000 Plus images)",
       "value_usd": null,
       "eligibility": "Incorporated",
       "stages": [
@@ -21944,7 +21944,7 @@
       "recurring_or_expiry": "1 year",
       "other_requirements": "",
       "confidence": "high",
-      "last_verified": null,
+      "last_verified": "2026-09-28T12:00:44.236Z",
       "source_url": "https://www.photoroom.com/api/startup-plan",
       "apply_url": "https://www.photoroom.com/api/startup-plan",
       "url": "https://startupperks.co/programs/photoroom-photoroom-api-startup-plan"

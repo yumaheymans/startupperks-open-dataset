@@ -2,7 +2,7 @@
 
 183 startup programs for security, legal and HR: compliance automation, identity and verification, password management, security testing and global HR. Each program links to the provider's own page, where its terms are published. **Details** opens the program's StartupPerks page with eligibility, verification notes and similar programs.
 
-Generated 2026-09-28 from the [StartupPerks open dataset](../README.md). 49 of these 183 programs were re-checked against the provider's page in the 30 days before that date; terms change, so confirm on the provider's page before you apply.
+Generated 2026-09-28 from the [StartupPerks open dataset](../README.md). 50 of these 183 programs were re-checked against the provider's page in the 30 days before that date; terms change, so confirm on the provider's page before you apply.
 
 **Jump to:** [Credits](#credits) (5) · [Discounts](#discounts) (59) · [Programs](#programs) (3) · [Cash and rewards](#cash-and-rewards) (1) · [Free plans](#free-plans) (115)
 
@@ -15,7 +15,7 @@ Programs with a comparable US dollar figure come first, largest first; the rest 
 | Program | Stated value | Who qualifies | Region | More |
 |---------|--------------|---------------|--------|------|
 | [ComplyCube Startup Program](https://www.complycube.com/en/company/startup-program/) | Up to $50,000 in platform credits | Any startup; pre-seed to Series A | Global | [Details](https://startupperks.co/programs/complycube-complycube-startup-program?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
-| [Youverify: YV Startup Program](https://startup.youverify.co/) | $2,000 in Youverify OS credits (verify up to 10,000 users at no cost) | Any startup; idea to seed | Global | [Details](https://startupperks.co/programs/youverify-yv-startup-program?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
+| [Youverify: YV Startup Program](https://startup.youverify.co/) | $2,000 YV OS Credits | Any startup; idea to seed | Global | [Details](https://startupperks.co/programs/youverify-yv-startup-program?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Capture The Bug Startup Program](https://capturethebug.xyz) | $1,000 in security-testing credits | Any startup | Global | [Details](https://startupperks.co/programs/capture-the-bug-capture-the-bug-startup-program?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Persona Startup Program](https://help.withpersona.com/articles/1XNnqukfZY9VamF2e7jkuJ/) | 500 free verifications every month for a full year | No funding required; idea to seed; raised under $5M | Global | [Details](https://startupperks.co/programs/persona-startup-program?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
 | [Signzy for Startups](https://www.signzy.com/fintech-apis/startups) | Worth 5,000 INR for Signzy's API sandbox | Any startup | Global | [Details](https://startupperks.co/programs/signzy-signzy-for-startups?utm_source=github&utm_medium=list&utm_campaign=open-dataset) |
